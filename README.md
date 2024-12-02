@@ -11,7 +11,7 @@ I'm an aspiring **Cloud Engineer** with a passion for **AWS** and cloud technolo
 ## Projects:
 Here are some of the projects I've worked on to strengthen my cloud skills:
 
-### 1. Multi-Tier Web Application on AWS - :construction: in progress 
+### 1. Multi-Tier Web Application on AWS - another repository 
 - AWS EC2: Hosting the backend server.
 - AWS S3: Storing static assets (HTML, CSS, JS) for the frontend.
 - AWS CloudFront: Content Delivery Network (CDN) for faster access and improved performance.
