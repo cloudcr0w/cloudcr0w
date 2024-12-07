@@ -11,7 +11,7 @@ I'm an aspiring **Cloud Engineer** with a passion for **AWS** and cloud technolo
 ## Projects:
 Here are some of the projects I've worked on to strengthen my cloud skills:
 
-### 1. Multi-Tier Web Application on AWS - another repository 
+### 1. Multi-Tier Web Application on AWS 
 - AWS EC2: Hosting the backend server.
 - AWS S3: Storing static assets (HTML, CSS, JS) for the frontend.
 - AWS CloudFront: Content Delivery Network (CDN) for faster access and improved performance.
@@ -22,6 +22,13 @@ Here are some of the projects I've worked on to strengthen my cloud skills:
 - SSL (Let's Encrypt): Secure communication over HTTPS.
 - HTML, CSS, JavaScript: Frontend technologies to build a responsive and interactive user interface.
 
+### 2.:construction::construction::construction: Gym entry app in progress :construction::construction::construction:
+- AWS Cognito – for user management, authentication, and secure sign-up/login flows.
+- AWS Rekognition – for facial recognition to identify members at the gym entrance.
+- AWS Lambda – for serverless backend logic to handle user interactions and processes.
+- AWS DynamoDB – a scalable NoSQL database to store member details, subscriptions, and bookings.
+- AWS S3 – for secure and scalable image storage, including member photos for facial recognition.
+- AWS SNS – for sending SMS notifications for membership, class bookings, and payment reminders.
 
 
 Feel free to check out my projects and contributions below!
