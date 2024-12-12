@@ -1,7 +1,7 @@
 # Hi there, I'm Adam 👋
 
 ## About Me
-I'm an aspiring **Cloud Engineer** with a passion for **AWS** and cloud technologies. I have recently earned my **AWS Cloud Practitioner certification** and am currently preparing for the **AWS Certified Solutions Architect – Associate** exam. I am also developing skills in **Docker**, **Kubernetes**, **Terraform**, and **Linux**. After 17 years of experience in logistics and production, I bring strong problem-solving skills, attention to detail, and experience managing complex processes with tools like **SAP**.
+I'm an aspiring **Cloud Engineer** with a passion for **AWS** and cloud technologies. I have recently earned my **AWS Cloud Practitioner certification** and am currently preparing for the **AWS Certified Solutions Architect – Associate** exam. I am also developing skills in **Docker**, **Kubernetes**, and **Linux**. After 17 years of experience in logistics and production, I bring strong problem-solving skills, attention to detail, and experience managing complex processes with tools like **SAP**.
 
 ## Skills:
 - **AWS**: EC2, S3, IAM, RDS, CloudFront, Route53
