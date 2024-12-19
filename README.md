@@ -22,7 +22,7 @@ Here are some of the projects I've worked on to strengthen my cloud skills:
 - SSL (Let's Encrypt): Secure communication over HTTPS.
 - HTML, CSS, JavaScript: Frontend technologies to build a responsive and interactive user interface.
 
-### 2. :construction: :construction: :construction: Gym entry app in progress :construction: :construction: :construction:
+### 2.  Gym entry app :construction: in progress :construction:
 - AWS Cognito – for user management, authentication, and secure sign-up/login flows.
 - AWS Rekognition – for facial recognition to identify members at the gym entrance.
 - AWS Lambda – for serverless backend logic to handle user interactions and processes.
