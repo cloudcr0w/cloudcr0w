@@ -23,15 +23,9 @@ Here are some of the projects I've worked on to strengthen my cloud skills:
 - HTML, CSS, JavaScript: Frontend technologies to build a responsive and interactive user interface.
 
 
-### :construction: 2. Serverless Image Gallery with AWS Amplify :construction:
+### :construction: 2. Project nr 2 :construction:
 Currently under development! :hammer_and_wrench: 
-- **AWS Amplify**: Streamlines the setup (Auth, Storage, API) and handles frontend hosting and CI/CD.  
-- **Amazon Cognito**: Provides user registration, login, and access management to resources (S3, DynamoDB).  
-- **Amazon S3**: Stores image files and triggers a Lambda function upon new uploads.  
-- **AWS Lambda**: Connects to AWS Rekognition and DynamoDB to automate image tagging.  
-- **AWS Rekognition**: Analyzes images and returns recognized labels (tags).  
-- **Amazon DynamoDB**: Stores image data and tags in a NoSQL database.  
-- **AWS AppSync (GraphQL)**: Offers an API for frontend-backend communication; Amplify generates the necessary schema and DynamoDB resources.  
+
 
 
 Feel free to check out my projects and contributions below!
