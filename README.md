@@ -23,9 +23,14 @@ Here are some of the projects I've worked on to strengthen my cloud skills:
 - HTML, CSS, JavaScript: Frontend technologies to build a responsive and interactive user interface.
 
 
-### :construction: 2. Project nr 2 :construction:
+### :construction: 2. Weather-Project :construction:
 Currently under development! :hammer_and_wrench: 
-
+- AWS Lambda – Cyclical data fetching and processing
+- AWS EventBridge – Triggers Lambda on a schedule (e.g., once daily)
+- AWS S3 – Stores raw CSV/JSON data
+- DynamoDB / RDS – Holds processed data
+- AWS Amplify or S3 + CloudFront – Hosts a frontend for data visualization
+- GitHub – Version control & project history
 
 
 Feel free to check out my projects and contributions below!
