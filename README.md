@@ -39,10 +39,3 @@ Feel free to check out my projects and contributions below!
 - **LinkedIn**: [https://www.linkedin.com/in/adam-wrona-111ba728b/](https://www.linkedin.com/in/adam-wrona-111ba728b/)  
 - **GitHub**: [https://github.com/cloudcr0w](https://github.com/cloudcr0w)
 
-
-
-Feel free to check out my projects and contributions below!
-
-## Let's Connect!
-- **LinkedIn**: [https://www.linkedin.com/in/adam-wrona-111ba728b/]
-- **GitHub**: [https://github.com/cloudcr0w]
