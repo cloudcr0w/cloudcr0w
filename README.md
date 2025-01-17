@@ -28,7 +28,7 @@ Currently under development! :hammer_and_wrench:
 - AWS Lambda – Cyclical data fetching and processing
 - AWS EventBridge – Triggers Lambda on a schedule (e.g., once daily)
 - AWS S3 – Stores raw CSV/JSON data
-- DynamoDB / RDS – Holds processed data
+- DynamoDB  – Holds processed data
 - AWS Amplify – Hosts a frontend for data visualization
 - GitHub – Version control & project history
 
