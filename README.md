@@ -23,7 +23,7 @@ Here are some of the projects I've worked on to strengthen my cloud skills:
 - HTML, CSS, JavaScript: Frontend technologies to build a responsive and interactive user interface.
 
 
-### :construction: 2. Weather-Project :construction:
+### :construction: 2. Weather-Project :construction: https://main.d24ky3ld7v2sml.amplifyapp.com
 Currently under development! :hammer_and_wrench: 
 - AWS Lambda – Cyclical data fetching and processing
 - AWS EventBridge – Triggers Lambda on a schedule (e.g., once daily)
