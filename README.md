@@ -27,10 +27,11 @@ Here are some of the projects I've worked on to strengthen my cloud skills:
 ### :construction: 2. Weather-Project :construction: https://main.d24ky3ld7v2sml.amplifyapp.com
 Currently under development! :hammer_and_wrench: 
 - AWS Lambda – Cyclical data fetching and processing
-- AWS EventBridge – Triggers Lambda on a schedule (e.g., once daily)
+- AWS EventBridge – Triggers Lambda on a schedule (once daily)
 - AWS S3 – Stores raw CSV/JSON data
 - DynamoDB  – Holds processed data
-- AWS Amplify – Hosts a frontend for data visualization
+- AWS Amplify – Hosts a frontend for data visualization, CI/CD
+- OpenWeather API - free weather API, used for weather data once daily
 - GitHub – Version control & project history
 
 
