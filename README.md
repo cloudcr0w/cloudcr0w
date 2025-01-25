@@ -15,6 +15,7 @@ Here are some of the projects I've worked on to strengthen my cloud skills:
 - AWS EC2: Hosting the backend server.
 - AWS S3: Storing static assets (HTML, CSS, JS) for the frontend.
 - AWS CloudFront: Content Delivery Network (CDN) for faster access and improved performance.
+- AWS SNS: Notifications to my email about new messages from contact form
 - AWS RDS (MySQL): Managed relational database service for storing user messages.
 - Node.js & Express: Backend API to handle form submissions and communicate with the database.
 - MySQL: Used for data storage in AWS RDS.
