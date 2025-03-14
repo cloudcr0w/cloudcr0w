@@ -1,46 +1,114 @@
-# Hi there, I'm Adam 👋
+## 🚀 Hi there, I'm Adam! 👋
+Aspiring DevOps Engineer | Cloud Engineer focused on AWS & Automation
 
-## About Me
-I'm an aspiring **Cloud Engineer** with a passion for **AWS** and cloud technologies. I have recently earned my **AWS Cloud Practitioner certification** and am currently preparing for the **AWS Certified Solutions Architect – Associate** exam. I am also developing skills in **Docker**, **Terraform**, **Kubernetes**, and **Linux**. After 17 years of experience in logistics and production, I bring strong problem-solving skills, attention to detail, and experience managing complex processes with tools like **SAP**.
+🔹 Certified AWS Solutions Architect – Associate (Feb 2025) and Cloud Practitioner (Sep 2024)
 
-## Skills:
-- **AWS**: EC2, S3, IAM, RDS, CloudFront, Route53, Amplify, CloudWatch, Cloudtrail, Eventbridge, Lambda, DynamoDB
-- **Automation**: Jenkins, Docker, Kubernetes ( still learning )
-- **Operating Systems**: Basic knowledge of Linux and Windows
+🔹 Preparing for HashiCorp Certified: Terraform Associate
 
-## Projects:
-Here are some of the projects I've worked on to strengthen my cloud skills:
+🔹 Passionate about CI/CD, Infrastructure as Code (IaC), and cloud security
 
-### 1. Multi-Tier Web Application on AWS – [https://crow-project.click](https://crow-project.click)
+## 📌 About Me
 
-- **AWS EC2**: Hosting the backend server (Node.js + Express).
-- **AWS RDS (MySQL)**: Relational database service storing user messages from the contact form.
-- **AWS S3**: Bucket for static frontend files (HTML, CSS, JS).
-- **AWS CloudFront**: Content Delivery Network (CDN) for global distribution and improved performance.
-- **AWS WAF**: Web Application Firewall attached to CloudFront for additional security and threat protection.
-- **AWS CloudFormation**: Infrastructure as Code (IaC) templates to automate and version control the creation of AWS resources.
-- **AWS SNS**: Email notifications for each new message from the contact form.
-- **CORS**: Configured to allow secure cross-origin requests from the frontend to the backend.
-- **SSL (Let's Encrypt)**: TLS certificates for HTTPS, ensuring encrypted communication.
-- **HTML, CSS, JavaScript**: Frontend stack for responsive and interactive UI.
-- **Node.js & Express**: RESTful API handling form submissions and orchestrating communication with MySQL on RDS.
-- **GitHub** – Version control & project history
+With 17 years of experience in logistics and production, I’ve transitioned into cloud engineering and DevOps. I bring a problem-solving mindset, process automation experience, and a strong drive to optimize cloud solutions. My primary focus is AWS, Terraform, and CI/CD pipelines to ensure scalable and efficient deployments.
 
+## 🔧 Tech Stack 
 
-### :construction: 2. Weather-Project :construction: https://main.d24ky3ld7v2sml.amplifyapp.com
-Currently under development! :hammer_and_wrench: 
-- **AWS Lambda** – Cyclical data fetching and processing
-- **AWS EventBridge** – Triggers Lambda on a schedule (once daily)
-- **AWS S3** – Stores raw CSV/JSON data
-- **DynamoDB**  – Holds processed data
-- **AWS Amplify** – Hosts a frontend for data visualization, CI/CD
-- **OpenWeather API** - free weather API, used for weather data once daily
-- **GitHub** – Version control & project history
+✅ Cloud & AWS Services: EC2, S3, IAM, RDS, Lambda, DynamoDB, API Gateway, CloudFront, Route53, Amplify, CloudWatch, CloudTrail, EventBridge
+
+✅ Infrastructure as Code: Terraform (actively learning), CloudFormation
+
+✅ CI/CD & Automation: GitHub Actions, Jenkins (basic)
+
+✅ Containers & Orchestration: Docker, Kubernetes (learning basics)
+
+✅ Security & Compliance: IAM, AWS WAF, CloudTrail, least privilege policies
+
+✅ Programming & Scripting: Python (basic), Bash
+
+## 💡 Featured Projects
 
 
-Feel free to check out my projects and contributions below!
+1️⃣ Multi-Tier Web App (CloudFormation, EC2, RDS, S3, CloudFront, WAF)
+A classic multi-tier web application with automated deployment using AWS CloudFormation. This project demonstrates scalability, security, and high availability with AWS services.
 
-## Let's Connect!
-- **LinkedIn**: [https://www.linkedin.com/in/adam-wrona-111ba728b/](https://www.linkedin.com/in/adam-wrona-111ba728b/)  
-- **GitHub**: [https://github.com/cloudcr0w](https://github.com/cloudcr0w)
+📌 Key Features:
 
+✔️ AWS EC2 – Backend hosted on EC2 (Node.js + Express)
+
+✔️ AWS RDS (MySQL) – Stores user messages from contact form
+
+✔️ AWS S3 & CloudFront – Static frontend + CDN for performance
+
+✔️ AWS WAF & IAM – Security measures for API and frontend
+
+✔️ CloudFormation (IaC) – Automated deployment of infrastructure
+
+✔️ SSL (Let’s Encrypt) – Secure HTTPS communication
+
+✔️ SNS & Email Notifications – Alerts for new contact form messages
+
+🔗 Repo: https://github.com/cloudcr0w/multi-tier-webapp
+🌐 Live Demo: https://crow-project.click
+
+
+
+## 2️⃣ Serverless Task Manager (🚀 Fully Automated Deployment)
+A serverless application leveraging AWS Lambda, API Gateway, and DynamoDB, deployed via Terraform & GitHub Actions.
+
+📌 Key Features:
+
+✔️ Serverless architecture – No traditional servers, fully AWS-managed
+
+✔️ Terraform IaC – Automated provisioning of infrastructure
+
+✔️ CI/CD pipeline – GitHub Actions deploys infrastructure & code updates
+
+✔️ Security – IAM least privilege roles, S3 encryption
+
+✔️ Frontend – Hosted on S3 with static site hosting
+
+🔗 Repo: https://github.com/cloudcr0w/serverless-project
+🛠 Live Demo: https://adamwrona-serverless-frontend.s3.amazonaws.com/index.html
+
+
+
+## 3️⃣ Weather-Project (🌍 Automated Data Processing)
+
+A serverless weather data pipeline that fetches, processes, and stores weather data daily at 18:00 CST (11:00 CET).
+
+📌 Key Features:
+
+✔️ AWS Lambda – Automates daily API calls
+
+✔️ AWS EventBridge – Scheduled event triggers
+
+✔️ AWS S3 & DynamoDB – Stores raw & processed data
+
+✔️ AWS Amplify – Frontend hosting with CI/CD
+
+🔗 Repo: https://github.com/cloudcr0w/weather-project
+🌐 Live Demo: https://main.d24ky3ld7v2sml.amplifyapp.com
+
+
+## 📢 Why Me?
+
+🔹 Hands-on experience with AWS – Certified & building real projects
+
+🔹 Infrastructure as Code mindset – Automating deployments with Terraform & CloudFormation
+
+🔹 CI/CD & Automation – GitHub Actions for seamless cloud deployments
+
+🔹 Fast learner & problem solver – 17 years in process optimization & logistics
+
+📩 Looking for my first DevOps role – Let’s connect!
+
+📌 LinkedIn: linkedin.com/in/adam-wrona-111ba728b/
+📌 GitHub: github.com/cloudcr0w
+
+🚀 Open to DevOps, Cloud Engineer, and AWS-related roles!
+
+
+🔜 Next Steps
+ Implement monitoring & alerting (e.g., AWS CloudWatch Alarms)
+ Improve frontend (UI, animations, responsiveness)
+ Write unit tests & integration tests for Lambda
