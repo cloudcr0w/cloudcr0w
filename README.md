@@ -100,7 +100,8 @@ A serverless weather data pipeline that fetches, processes, and stores weather d
 
 🔹 Fast learner & problem solver – 17 years in process optimization & logistics
 
-📩 Looking for my first DevOps role – Let’s connect!
+
+## 📩 Looking for my first DevOps role – Let’s connect!
 
 📌 LinkedIn: linkedin.com/in/adam-wrona-111ba728b/
 📌 GitHub: github.com/cloudcr0w
