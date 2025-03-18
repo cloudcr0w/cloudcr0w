@@ -109,7 +109,4 @@ A serverless weather data pipeline that fetches, processes, and stores weather d
 🚀 Open to DevOps, Cloud Engineer, and AWS-related roles!
 
 
-🔜 Next Steps
- Implement monitoring & alerting (e.g., AWS CloudWatch Alarms)
- Improve frontend (UI, animations, responsiveness)
- Write unit tests & integration tests for Lambda
+
