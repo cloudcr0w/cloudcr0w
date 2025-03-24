@@ -70,6 +70,10 @@ A serverless application leveraging AWS Lambda, API Gateway, and DynamoDB, deplo
 🔗 Repo: https://github.com/cloudcr0w/serverless-project
 🛠 Live Demo: https://adamwrona-serverless-frontend.s3.amazonaws.com/index.html
 
+## AWS Security Alerting Pipeline ( this one I`m focused now... )
+
+This project demonstrates a simple and effective AWS security alerting pipeline that detects IAM security events and sends notifications via email using AWS services.
+🔗 Repo: https://github.com/cloudcr0w/security-alerting-pipeline
 
 
 ## 3️⃣ Weather-Project (🌍 Automated Data Processing)
