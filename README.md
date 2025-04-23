@@ -122,5 +122,13 @@ A serverless weather data pipeline that fetches, processes, and stores weather d
 
 🚀 Open to DevOps, Cloud Engineer, and AWS-related roles!
 
+> "Some people wait for perfect conditions.  
+> Others run the script and fix what's broken."
+
+> „Jedni czekają, aż wszystko będzie idealne.  
+> Drudzy odpalają skrypt i naprawiają po drodze.”
+
+> author, unknown.  
+> XD
 
 
