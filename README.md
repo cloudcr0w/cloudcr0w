@@ -1,134 +1,98 @@
-## 🚀 Hi there, I'm Adam! 👋
-Aspiring DevOps Engineer | Cloud Engineer focused on AWS & Automation
+# 👋 Hi, I'm Adam Wrona – Aspiring DevOps & Cloud Engineer
 
-🔹 Certified AWS Solutions Architect – Associate (Feb 2025) and Cloud Practitioner (Sep 2024)
+I'm a career switcher with 17 years of experience in process optimization and logistics.  
+Today, I design and build secure, automated, and observable infrastructure in the cloud ☁️🚀
 
-🔹 Preparing for HashiCorp Certified: Terraform Associate
+I'm looking for my **first professional DevOps/Cloud Engineer role**, and I'm ready to bring real project experience, automation skills, and high motivation into your team.
 
-🔹 Passionate about CI/CD, Infrastructure as Code (IaC), and cloud security
+---
 
-## 📌 About Me
+## 🧭 What I Focus On
 
-With 17 years of experience in logistics and production, I’ve transitioned into cloud engineering and DevOps. I bring a problem-solving mindset, process automation experience, and a strong drive to optimize cloud solutions. My primary focus is AWS, Terraform, and CI/CD pipelines to ensure scalable and efficient deployments.
+- ✅ Building complete cloud-native architectures (frontend, backend, IaC, CI/CD)
+- 🔐 Applying DevSecOps principles from day one (IAM, GuardDuty, monitoring)
+- ☁️ Using AWS the way it's meant to be used — scalable, secure, and event-driven
+- 🔧 Automating everything: deployments, alerts, security, metrics
+- 📈 Making infrastructure observable with CloudWatch and dashboards
 
-## 🔧 Tech Stack 
+---
 
-✅ Cloud & AWS Services: EC2, S3, IAM, RDS, Lambda, DynamoDB, API Gateway, CloudFront, Route53, Amplify, CloudWatch, CloudTrail, EventBridge
+## 🧪 What I'm Working On Now
 
-✅ Infrastructure as Code: Terraform (actively learning), CloudFormation
+- 🎓 Preparing for **HashiCorp Terraform Associate** certification (exam May 2025)
+- 🛡️ Expanding my **AWS Security Alerting Pipeline** (GuardDuty + Config + Lambda)
+- 📊 Designing **CloudWatch Dashboards** to monitor backend performance
 
-✅ CI/CD & Automation: GitHub Actions, Jenkins (basic)
+---
 
-✅ Containers & Orchestration: Docker, Kubernetes (learning basics)
+## 🧰 Tech Stack
 
-✅ Security & Compliance: IAM, AWS WAF, CloudTrail, least privilege policies
+**Cloud**: AWS (EC2, S3, Lambda, RDS, CloudFront, Route53, CloudWatch, IAM, Config, GuardDuty, EventBridge)  
+**IaC**: Terraform (learning actively), CloudFormation  
+**CI/CD**: GitHub Actions  
+**Security**: IAM, WAF, SSL, least privilege policies  
+**Containers**: Docker, Kubernetes (basics)  
+**Code**: Python (basic), Bash, Node.js (Express)
 
-✅ Programming & Scripting: Python (basic), Bash
+---
 
+## 📜 Certifications
 
-## 💡 Featured Projects
+- ✅ AWS Certified Solutions Architect – Associate (Feb 2025)  
+- ✅ AWS Certified Cloud Practitioner (Sep 2024)  
+- 🛠️ Terraform Associate – in progress (exam booked)
 
-## AWS Security Alerting Pipeline ( this one I`m focused now... )
+---
 
-This project demonstrates a simple and effective AWS security alerting pipeline that detects IAM security events and sends notifications via email using AWS services.
-🔗 Repo: https://github.com/cloudcr0w/security-alerting-pipeline
+## 💼 Featured Projects
 
-🔑 Key Features:
-- ✅ Event-driven architecture (CloudTrail + EventBridge)
+### 🧱 Multi-Tier Web App  
+Full-stack app with EC2 backend, RDS database, S3 frontend + CloudFront CDN, monitored via CloudWatch.  
+Deployed entirely with CloudFormation. Includes real-time response time metrics and CPU alarms.
 
-- ✅ Real-time alerting with AWS Lambda + SNS
+🔗 [Repo](https://github.com/cloudcr0w/multi-tier-webapp) • 🌐 [Live](https://crow-project.click)
 
-- ✅ GuardDuty threat detection (in progress)
+---
 
-- ✅ Fully defined in Terraform
+### ☁️ Serverless Task Manager  
+Modern task manager using 100% AWS managed services — Lambda, API Gateway, DynamoDB — and fully automated with Terraform & GitHub Actions.
 
+🔗 [Repo](https://github.com/cloudcr0w/serverless-project) • 🌐 [Live](https://adamwrona-serverless-frontend.s3.amazonaws.com/index.html)
 
-1️⃣ Multi-Tier Web App (CloudFormation, EC2, RDS, S3, CloudFront, WAF)
-A classic multi-tier web application with automated deployment using AWS CloudFormation. This project demonstrates scalability, security, and high availability with AWS services.
+---
 
-📌 Key Features:
+### 🔍 Sentiment Analysis API  
+FastAPI microservice for text sentiment classification. Secured with token auth, rate limiting, and abuse logging.  
+Packaged with Docker and deployable via Terraform and Kubernetes.
 
-✔️ AWS EC2 – Backend hosted on EC2 (Node.js + Express)
+🔗 [Repo](https://github.com/cloudcr0w/sentiment-api)
 
-✔️ AWS RDS (MySQL) – Stores user messages from contact form
+---
 
-✔️ AWS S3 & CloudFront – Static frontend + CDN for performance
+### 🛡️ AWS Security Alerting Pipeline *(DevSecOps)*  
+Event-driven threat detection for IAM and GuardDuty findings. Terraform-managed stack with Lambda, SNS, Config, and CloudTrail.  
+Designed to demonstrate real-world security automation in AWS.
 
-✔️ AWS WAF & IAM – Security measures for API and frontend
+🔗 [Repo](https://github.com/cloudcr0w/security-alerting-pipeline)
 
-✔️ CloudFormation (IaC) – Automated deployment of infrastructure
+---
 
-✔️ SSL (Let’s Encrypt) – Secure HTTPS communication
+### 🌐 Weather Data Pipeline  
+EventBridge-scheduled Lambda pulls weather data daily and stores it in DynamoDB & S3.  
+Frontend hosted with Amplify + CI/CD.
 
-✔️ SNS & Email Notifications – Alerts for new contact form messages
+🔗 [Repo](https://github.com/cloudcr0w/weather-project) • 🌐 [Live](https://main.d24ky3ld7v2sml.amplifyapp.com)
 
-🔗 Repo: https://github.com/cloudcr0w/multi-tier-webapp
-🌐 Live Demo: https://crow-project.click
+---
 
+## 🤝 Let's Connect
 
+I’m looking for my **first role as a DevOps / Cloud Engineer**, and I’m ready to learn fast, work hard, and bring value from day one.
 
-## 2️⃣ Serverless Task Manager (🚀 Fully Automated Deployment)
-A serverless application leveraging AWS Lambda, API Gateway, and DynamoDB, deployed via Terraform & GitHub Actions.
-
-📌 Key Features:
-
-✔️ Serverless architecture – No traditional servers, fully AWS-managed
-
-✔️ Terraform IaC – Automated provisioning of infrastructure
-
-✔️ CI/CD pipeline – GitHub Actions deploys infrastructure & code updates
-
-✔️ Security – IAM least privilege roles, S3 encryption
-
-✔️ Frontend – Hosted on S3 with static site hosting
-
-🔗 Repo: https://github.com/cloudcr0w/serverless-project
-🛠 Live Demo: https://adamwrona-serverless-frontend.s3.amazonaws.com/index.html
-
-
-## 3️⃣ Weather-Project (🌍 Automated Data Processing)
-
-A serverless weather data pipeline that fetches, processes, and stores weather data daily at 18:00 CST (11:00 CET).
-
-📌 Key Features:
-
-✔️ AWS Lambda – Automates daily API calls
-
-✔️ AWS EventBridge – Scheduled event triggers
-
-✔️ AWS S3 & DynamoDB – Stores raw & processed data
-
-✔️ AWS Amplify – Frontend hosting with CI/CD
-
-🔗 Repo: https://github.com/cloudcr0w/weather-project
-🌐 Live Demo: https://main.d24ky3ld7v2sml.amplifyapp.com
-
-
-## 📢 Why Me?
-
-🔹 Hands-on experience with AWS – Certified & building real projects
-
-🔹 Infrastructure as Code mindset – Automating deployments with Terraform & CloudFormation
-
-🔹 CI/CD & Automation – GitHub Actions for seamless cloud deployments
-
-🔹 Fast learner & problem solver – 17 years in process optimization & logistics
-
-
-## 📩 Looking for my first DevOps role – Let’s connect!
-
-📌 LinkedIn: linkedin.com/in/adam-wrona-111ba728b/
-📌 GitHub: github.com/cloudcr0w
-
-🚀 Open to DevOps, Cloud Engineer, and AWS-related roles!
+- 📌 [LinkedIn](https://linkedin.com/in/adam-wrona-111ba728b/)  
+- 📌 [GitHub](https://github.com/cloudcr0w)
 
 > "Some people wait for perfect conditions.  
-> Others run the script and fix what's broken."
-
-> „Jedni czekają, aż wszystko będzie idealne.  
-> Drudzy odpalają skrypt i naprawiają po drodze.”
-
-> author, unknown.  
-> XD
-
+> Others run the script and fix what's broken."  
+> – unknown
 
