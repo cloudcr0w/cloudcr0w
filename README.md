@@ -65,7 +65,7 @@ Modern task manager using 100% AWS managed services — Lambda, API Gateway, Dyn
 FastAPI microservice for text sentiment classification. Secured with token auth, rate limiting, and abuse logging.  
 Packaged with Docker and deployable via Terraform and Kubernetes.
 
-🔗 [Repo](https://github.com/cloudcr0w/sentiment-api)
+🔗 [Repo](https://github.com/cloudcr0w/sentiment-analyzer-devops)
 
 ---
 
@@ -94,5 +94,6 @@ I’m looking for my **first role as a DevOps / Cloud Engineer**, and I’m read
 
 > "Some people wait for perfect conditions.  
 > Others run the script and fix what's broken."  
-> – unknown
+> – unknown 
+> - XD
 
