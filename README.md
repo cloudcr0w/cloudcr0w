@@ -1,36 +1,36 @@
 # 👋 Hi, I'm Adam Wrona – Aspiring DevOps & Cloud Engineer
 
 I'm a career switcher with 17 years of experience in process optimization and logistics.  
-Today, I design and build secure, automated, and observable infrastructure in the cloud ☁️🚀
+Now, I build **secure, automated, and observable cloud infrastructure** ☁️🚀
 
-I'm looking for my **first professional DevOps/Cloud Engineer role**, and I'm ready to bring real project experience, automation skills, and high motivation into your team.
+I'm looking for my **first professional role in DevOps or Cloud Engineering** — ready to contribute from day one with real project experience, strong AWS skills, and relentless motivation.
 
 ---
 
 ## 🧭 What I Focus On
 
-- ✅ Building complete cloud-native architectures (frontend, backend, IaC, CI/CD)
-- 🔐 Applying DevSecOps principles from day one (IAM, GuardDuty, monitoring)
-- ☁️ Using AWS the way it's meant to be used — scalable, secure, and event-driven
-- 🔧 Automating everything: deployments, alerts, security, metrics
-- 📈 Making infrastructure observable with CloudWatch and dashboards
+- ✅ Building full cloud-native architectures (frontend, backend, IaC, CI/CD)
+- 🔐 Embedding DevSecOps principles early (IAM, GuardDuty, monitoring)
+- ☁️ Leveraging AWS the right way – scalable, secure, and event-driven
+- 🔧 Automating everything: deployments, alerts, security, observability
+- 📈 Making systems trackable with CloudWatch metrics and dashboards
 
 ---
 
-## 🧪 What I'm Working On Now
+## 🧪 What I'm Working On
 
-- 🎓 Preparing for **HashiCorp Terraform Associate** certification (exam May 2025)
+- 🎓 Preparing for **HashiCorp Terraform Associate** (exam: May 2025)
 - 🛡️ Expanding my **AWS Security Alerting Pipeline** (GuardDuty + Config + Lambda)
-- 📊 Designing **CloudWatch Dashboards** to monitor backend performance
+- 📊 Building custom **CloudWatch Dashboards** to monitor backend workloads
 
 ---
 
 ## 🧰 Tech Stack
 
-**Cloud**: AWS (EC2, S3, Lambda, RDS, CloudFront, Route53, CloudWatch, IAM, Config, GuardDuty, EventBridge)  
-**IaC**: Terraform (learning actively), CloudFormation  
+**Cloud**: AWS (EC2, S3, Lambda, RDS, CloudFront, Route 53, CloudWatch, IAM, Config, GuardDuty, EventBridge)  
+**IaC**: Terraform (actively learning), CloudFormation  
 **CI/CD**: GitHub Actions  
-**Security**: IAM, WAF, SSL, least privilege policies  
+**Security**: IAM, WAF, SSL, least privilege, logging  
 **Containers**: Docker, Kubernetes (basics)  
 **Code**: Python (basic), Bash, Node.js (Express)
 
@@ -40,46 +40,46 @@ I'm looking for my **first professional DevOps/Cloud Engineer role**, and I'm re
 
 - ✅ AWS Certified Solutions Architect – Associate (Feb 2025)  
 - ✅ AWS Certified Cloud Practitioner (Sep 2024)  
-- 🛠️ Terraform Associate – in progress (exam booked)
+- 🛠️ Terraform Associate – *in progress* (exam booked)
 
 ---
 
 ## 💼 Featured Projects
 
 ### 🧱 Multi-Tier Web App  
-Full-stack app with EC2 backend, RDS database, S3 frontend + CloudFront CDN, monitored via CloudWatch.  
-Deployed entirely with CloudFormation. Includes real-time response time metrics and CPU alarms.
+Full-stack app using EC2 backend, RDS database, and S3 frontend with CloudFront CDN.  
+Deployed with CloudFormation. Monitored via CloudWatch with real-time metrics.
 
 🔗 [Repo](https://github.com/cloudcr0w/multi-tier-webapp) • 🌐 [Live](https://crow-project.click)
 
 ---
 
 ### ☁️ Serverless Task Manager  
-Modern task manager using 100% AWS managed services — Lambda, API Gateway, DynamoDB — and fully automated with Terraform & GitHub Actions.
+Modern task manager built 100% on AWS — Lambda, API Gateway, DynamoDB — fully deployed with Terraform & GitHub Actions.
 
 🔗 [Repo](https://github.com/cloudcr0w/serverless-project) • 🌐 [Live](https://adamwrona-serverless-frontend.s3.amazonaws.com/index.html)
 
 ---
 
 ### 🔍 Sentiment Analysis API  
-FastAPI microservice for text sentiment classification. Secured with token auth, rate limiting, and abuse logging.  
-Packaged with Docker and deployable via Terraform and Kubernetes.
+FastAPI-based microservice for text sentiment classification. Secured with token auth, rate limiting, and abuse logging.  
+Containerized with Docker, deployable via Terraform and Kubernetes.
 
 🔗 [Repo](https://github.com/cloudcr0w/sentiment-analyzer-devops)
 
 ---
 
 ### 🛡️ AWS Security Alerting Pipeline *(DevSecOps)*  
-Event-driven threat detection for IAM and GuardDuty findings. Terraform-managed stack with Lambda, SNS, Config, and CloudTrail.  
-Designed to demonstrate real-world security automation in AWS.
+Event-driven incident detection using IAM, GuardDuty, and AWS Config.  
+Terraform-managed stack with Lambda, SNS, and CloudTrail. Realistic security automation.
 
 🔗 [Repo](https://github.com/cloudcr0w/security-alerting-pipeline)
 
 ---
 
 ### 🌐 Weather Data Pipeline  
-EventBridge-scheduled Lambda pulls weather data daily and stores it in DynamoDB & S3.  
-Frontend hosted with Amplify + CI/CD.
+Scheduled Lambda via EventBridge fetches weather data daily to DynamoDB and S3.  
+Frontend hosted with Amplify. CI/CD enabled.
 
 🔗 [Repo](https://github.com/cloudcr0w/weather-project) • 🌐 [Live](https://main.d24ky3ld7v2sml.amplifyapp.com)
 
@@ -87,13 +87,12 @@ Frontend hosted with Amplify + CI/CD.
 
 ## 🤝 Let's Connect
 
-I’m looking for my **first role as a DevOps / Cloud Engineer**, and I’m ready to learn fast, work hard, and bring value from day one.
+I'm actively looking for my **first DevOps / Cloud Engineer position**.  
+If you value a fast learner with proven cloud projects and a drive to deliver — let's talk!
 
 - 📌 [LinkedIn](https://linkedin.com/in/adam-wrona-111ba728b/)  
 - 📌 [GitHub](https://github.com/cloudcr0w)
 
-> "Some people wait for perfect conditions.  
-> Others run the script and fix what's broken."  
-> – unknown 
-> - XD
-
+> *"Some people wait for perfect conditions.  
+> Others run the script and fix what's broken."*  
+> – unknown legend 😄
