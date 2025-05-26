@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Adam Wrona – Aspiring DevOps & Cloud Engineer
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=cloudcr0w.cloudcr0w)
 
 🇵🇱 [Zobacz wersję po polsku](./README.pl.md)
 

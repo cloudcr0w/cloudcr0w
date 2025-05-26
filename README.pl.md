@@ -1,4 +1,5 @@
 # 👋 Cześć, jestem Adam Wrona – przyszły DevOps & Cloud Engineer
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=cloudcr0w.cloudcr0w)
 
 Zmieniłem branżę po 17 latach pracy w logistyce i optymalizacji procesów – w tym przez ponad 8 lat intensywnie korzystałem z SAP MM/WM w środowisku przemysłowym.  
 Dziś tworzę **bezpieczną, zautomatyzowaną i obserwowalną infrastrukturę w chmurze** ☁️🚀
