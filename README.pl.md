@@ -68,7 +68,7 @@ Wdrożona przez CloudFormation, monitorowana przez CloudWatch.
 ### ☁️ Serverless Task Manager  
 Nowoczesny task manager zbudowany w 100% na AWS – Lambda, API Gateway, DynamoDB.  
 Wdrożony z użyciem **Terraform + GitHub Actions**.  
-🔗 [Repo](https://github.com/cloudcr0w/serverless-project) • 🌐 [Live](https://d3i0w9qp2vl843.cloudfront.net)
+🔗 [Repo](https://github.com/cloudcr0w/serverless-project) • 🌐 [Live](https://d22fapw93bv9rh.cloudfront.net)
 
 ---
 

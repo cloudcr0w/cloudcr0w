@@ -68,7 +68,7 @@ Provisioned via CloudFormation, monitored with CloudWatch dashboards.
 ### ☁️ Serverless Task Manager  
 100% serverless CRUD app on AWS – Lambda, API Gateway, DynamoDB.  
 Deployed via **Terraform + GitHub Actions**.  
-🔗 [Repo](https://github.com/cloudcr0w/serverless-project) • 🌐 [Live](https://d3i0w9qp2vl843.cloudfront.net)
+🔗 [Repo](https://github.com/cloudcr0w/serverless-project) • 🌐 [Live](https://d22fapw93bv9rh.cloudfront.net)
 
 ---
 
