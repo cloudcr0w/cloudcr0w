@@ -65,7 +65,7 @@ I bring this mindset into cloud — ideal for teams migrating SAP or optimizing 
 ### 🧱 Multi-Tier Web App  
 Full-stack AWS app with EC2 backend, RDS DB, and S3+CloudFront frontend.  
 Provisioned via CloudFormation, monitored with CloudWatch dashboards.  
-🔗 [Repo](https://github.com/cloudcr0w/multi-tier-webapp) • 🌐 [Live](https://crow-project.click)
+🔗 [Repo](https://github.com/cloudcr0w/multi-tier-web-app) • 🌐 [Live](https://crow-project.click)
 
 ---
 

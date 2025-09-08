@@ -65,7 +65,7 @@ Dziś tę dyscyplinę i procesowe podejście przenoszę do świata chmury i DevO
 ### 🧱 Multi-Tier Web App  
 Aplikacja full-stack: backend na EC2, RDS jako baza danych, frontend w S3 + CloudFront.  
 Zarządzana przez CloudFormation, monitorowana przez CloudWatch.  
-🔗 [Repo](https://github.com/cloudcr0w/multi-tier-webapp) • 🌐 [Live](https://crow-project.click)
+🔗 [Repo](https://github.com/cloudcr0w/multi-tier-web-app) • 🌐 [Live](https://crow-project.click)
 
 ---
 
