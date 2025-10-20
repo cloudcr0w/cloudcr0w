@@ -1,4 +1,11 @@
-# 👋 Hello, I'm Adam Wrona – future Cloud & DevOps Engineer (AWS, SRE basics).  ☁️🐳🔧
+## 👋 Hi, I’m Adam Wrona
+
+Aspiring Cloud & DevOps Engineer (AWS | Terraform | Kubernetes | SRE basics) ☁️🐳🔧
+
+🔹 Career switcher after 17 years in logistics & SAP MM/WM
+🔹 Now building secure, automated & observable cloud infrastructure
+🔹 Actively seeking my first DevOps / SRE role
+
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=cloudcr0w.cloudcr0w)
 ![AWS SAA](https://img.shields.io/badge/AWS--SAA-Feb2025-yellow?logo=amazonaws)
 ![AWS CCP](https://img.shields.io/badge/Cloud%20Practitioner-Sep2024-blue?logo=amazonaws)
@@ -10,13 +17,6 @@
 
 🇵🇱 [Zobacz wersję po polsku](./README.pl.md)
 
----
-
-I’m a **career switcher** with 17 years in process optimization & logistics (8+ years with **SAP MM/WM** in heavy industry).  
-Now I design **secure, automated, and observable cloud infrastructure** ☁️🚀
-
-🎯 Actively looking for my **first professional DevOps / SRE role**.  
-💡 Backed by hands-on AWS projects, IaC pipelines, and relentless curiosity.
 
 ---
 
@@ -96,6 +96,12 @@ Frontend hosted on AWS Amplify, CI/CD enabled.
 🔗 [Repo](https://github.com/cloudcr0w/weather-project) • 🌐 [Live](https://main.d24ky3ld7v2sml.amplifyapp.com)
 
 ---
+
+### 🏭 SAP eWM Concept Project  
+Conceptual simulation of **Extended Warehouse Management (eWM)** processes — inbound, outbound, and internal stock movements.  
+Showcases **real SAP MM/WM logistics logic** modeled with eWM terminology and visual diagrams.  
+Bridges **warehouse operations** with **modern IT/DevOps** skills for SAP consulting roles.  
+🔗 [Repo](https://github.com/cloudcr0w/sap-ewm-concept)
 
 ## 🤝 Let’s Connect
 
