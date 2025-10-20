@@ -97,6 +97,14 @@ Frontend w AWS Amplify, CI/CD aktywne.
 
 ---
 
+### 🏭 SAP eWM Concept Project  
+Symulacja procesów magazynowych **SAP Extended Warehouse Management (eWM)** – przyjęcia, wydania i przesunięcia wewnętrzne.  
+Prezentuje realistyczną logikę **SAP MM/WM** oraz terminologię eWM z wykorzystaniem diagramów procesów.  
+Łączy doświadczenie logistyczne z nowoczesnym podejściem IT/DevOps w kontekście konsultingu SAP.  
+🔗 [Repozytorium](https://github.com/cloudcr0w/sap-ewm-concept)
+
+---
+
 ## 📈 Statystyki GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cloudcr0w&show_icons=true&theme=github_dark&hide_rank=true)  
