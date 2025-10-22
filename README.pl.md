@@ -62,6 +62,16 @@ Dziś tę dyscyplinę i procesowe podejście przenoszę do świata chmury i DevO
 
 ## 💼 Wybrane projekty
 
+### 🚧 Nowy projekt: Invo-Wise (PL)
+Rozpocząłem pracę nad nową aplikacją Invo-Wise, stworzoną z myślą o jednoosobowych działalnościach (JDG), które chcą mieć prosty i przejrzysty sposób na zarządzanie fakturami.
+Pomysł pojawił się z potrzeby – brakowało mi lekkiego narzędzia, które pozwala szybko ogarnąć faktury bez przekopywania się przez pliki PDF, Excela czy maile.
+
+Projekt rozwijam z myślą o nauce i praktyce — trochę kodu, trochę DevOpsa, trochę eksperymentów z automatyzacją i chmurą.
+Kryptonim projektu: Invo-Wise
+🔗 [Repo](https://github.com/cloudcr0w/invo-wise) • 🌐 [Live](https://invo-wise.vercel.app/)
+
+---
+
 ### 🧱 Multi-Tier Web App  
 Aplikacja full-stack: backend na EC2, RDS jako baza danych, frontend w S3 + CloudFront.  
 Zarządzana przez CloudFormation, monitorowana przez CloudWatch.  

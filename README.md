@@ -62,6 +62,17 @@ I bring this mindset into cloud — ideal for teams migrating SAP or optimizing 
 
 ## 💼 Featured Projects
 
+### 🚧 New project: Invo-Wise (EN)
+
+I’ve started working on a new app called Invo-Wise, designed for sole proprietors (freelancers / one-person businesses) who want a simple and clear way to manage their invoices.
+The idea came from a real need — there was no lightweight tool that lets you handle invoices quickly without digging through PDFs, Excel sheets, or emails.
+
+This project is all about learning and practice — a bit of code, a bit of DevOps, some automation, and plenty of cloud fun along the way.
+Codename: Invo-Wise 🚀
+🔗 [Repo](https://github.com/cloudcr0w/invo-wise) • 🌐 [Live](https://invo-wise.vercel.app/)
+
+---
+
 ### 🧱 Multi-Tier Web App  
 Full-stack AWS app with EC2 backend, RDS DB, and S3+CloudFront frontend.  
 Provisioned via CloudFormation, monitored with CloudWatch dashboards.  
