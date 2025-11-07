@@ -64,8 +64,25 @@ I bring this mindset into cloud — ideal for teams migrating SAP or optimizing 
 
 ### 🚧 New project: Invo-Wise (EN)
 
-I’ve started working on a new app called Invo-Wise, designed for sole proprietors (freelancers / one-person businesses) who want a simple and clear way to manage their invoices.
-The idea came from a real need — there was no lightweight tool that lets you handle invoices quickly without digging through PDFs, Excel sheets, or emails.
+
+**Invo-Wise** is a lightweight invoice helper for sole proprietors (freelancers / one-person businesses).  
+Goal: **scan / drop text → get clean totals and monthly insights** without digging through PDFs and spreadsheets.
+
+**What it does now**
+- Parse pasted text (PL invoice draft) into a simple `Invoice` model
+- Store invoices locally and list them in a minimal UI
+- `/analytics` backend endpoint → monthly & YTD totals (net/VAT/gross)
+- `/reports/export` → export JSON/CSV (optional `?month=YYYY-MM`)
+
+**What’s next**
+- Frontend dashboard cards (income/expense/VAT)
+- Month selector and a small trend chart
+- Real OCR + better parsing
+
+**Tech**
+- **FastAPI** (backend), **vanilla HTML/JS** (landing), **Pydantic** models
+- Simple storage (dev) + CSV/JSON export
+- Dockerless local dev, ready for containerization later
 
 This project is all about learning and practice — a bit of code, a bit of DevOps, some automation, and plenty of cloud fun along the way.
 Codename: Invo-Wise 🚀

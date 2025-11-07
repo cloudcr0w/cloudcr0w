@@ -66,6 +66,37 @@ Dziś tę dyscyplinę i procesowe podejście przenoszę do świata chmury i DevO
 Rozpocząłem pracę nad nową aplikacją Invo-Wise, stworzoną z myślą o jednoosobowych działalnościach (JDG), które chcą mieć prosty i przejrzysty sposób na zarządzanie fakturami.
 Pomysł pojawił się z potrzeby – brakowało mi lekkiego narzędzia, które pozwala szybko ogarnąć faktury bez przekopywania się przez pliki PDF, Excela czy maile.
 
+ChatGPT powiedział:
+
+Invo-Wise to lekka aplikacja do obsługi faktur dla osób prowadzących jednoosobową działalność gospodarczą (freelancerów / samozatrudnionych).
+Cel: wklej lub zeskanuj tekst → otrzymaj czytelne podsumowania i miesięczne statystyki, bez przekopywania się przez PDF-y i arkusze kalkulacyjne.
+
+Co już działa
+
+Parsowanie wklejonego tekstu (projekt faktury w języku polskim) do prostego modelu Invoice
+
+Lokalny zapis faktur i ich lista w minimalistycznym interfejsie
+
+Endpoint backendu /analytics → miesięczne i roczne (YTD) sumy (netto / VAT / brutto)
+
+/reports/export → eksport danych do JSON/CSV (opcjonalnie z parametrem ?month=YYYY-MM)
+
+Co dalej
+
+Karty dashboardu frontendowego (przychody / wydatki / VAT)
+
+Wybór miesiąca i mały wykres trendu
+
+Prawdziwe OCR i lepsze parsowanie
+
+Technologie
+
+FastAPI (backend), czysty HTML/JS (landing), modele Pydantic
+
+Prosty lokalny zapis danych (w fazie deweloperskiej) + eksport do CSV/JSON
+
+Brak Dockera w dev, ale projekt gotowy do konteneryzacji w późniejszym etapie
+
 Projekt rozwijam z myślą o nauce i praktyce — trochę kodu, trochę DevOpsa, trochę eksperymentów z automatyzacją i chmurą.
 Kryptonim projektu: Invo-Wise
 🔗 [Repo](https://github.com/cloudcr0w/invo-wise) • 🌐 [Live](https://invo-wise.vercel.app/)
