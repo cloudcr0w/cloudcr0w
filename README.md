@@ -1,148 +1,115 @@
-## 👋 Hi, I’m Adam Wrona
+<p align="right">
+  <b>🇬🇧 English</b> |
+  <a href="./README_PL.md">🇵🇱 Polski</a>
+</p>
 
-Aspiring Cloud & DevOps Engineer (AWS | Terraform | Kubernetes | SRE basics) ☁️🐳🔧
-
-🔹 Career switcher after 17 years in logistics & SAP MM/WM
-🔹 Now building secure, automated & observable cloud infrastructure
-🔹 Actively seeking my first DevOps / SRE role
+# 👋 Hi, I'm Adam Wrona
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=cloudcr0w.cloudcr0w)
-![AWS SAA](https://img.shields.io/badge/AWS--SAA-Feb2025-yellow?logo=amazonaws)
-![AWS CCP](https://img.shields.io/badge/Cloud%20Practitioner-Sep2024-blue?logo=amazonaws)
-![Terraform](https://img.shields.io/badge/Terraform-In%20Progress-purple?logo=terraform)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Basics-blue?logo=kubernetes)
-![Docker](https://img.shields.io/badge/Docker-Containers-blue?logo=docker)
-![GitHub Actions](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-lightgrey?logo=githubactions)
-![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws)
+![AWS SAA](https://img.shields.io/badge/SAA-2025-yellow?logo=amazonaws)
+![Python](https://img.shields.io/badge/Python-Scripting-blue?logo=python)
+![SQL](https://img.shields.io/badge/SQL-Databases-lightgrey?logo=sqlite)
+![GitHub Actions](https://img.shields.io/badge/CI/CD-GitHub_Actions-blue?logo=githubactions)
+![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?logo=docker)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-purple?logo=terraform)
 
-🇵🇱 [Zobacz wersję po polsku](./README.pl.md)
-
-
----
-
-## ⚙️ Skills at a Glance
-
-- ☁️ **Cloud**: AWS (Lambda, S3, EC2, RDS, Route 53, CloudWatch, IAM, Config, GuardDuty, EventBridge)  
-- 📦 **IaC**: Terraform (in progress), CloudFormation  
-- 🔁 **CI/CD**: GitHub Actions  
-- 🐳 **Containers**: Docker, Kubernetes (basics)  
-- 🔐 **Security**: IAM, WAF, SSL, least privilege, audit logging  
-- 📊 **Monitoring & Observability**: CloudWatch, dashboards, alerting (Grafana/Prometheus basics)  
-- 🧠 **Code**: Python (REST APIs), Bash, Node.js (Express)
+**Junior Cloud / DevOps / Application Support Engineer**  
+Focused on AWS, troubleshooting, incident resolution and building stable, production-like environments.
 
 ---
 
-## 🧭 Enterprise Roots in SAP & Logistics
+## 🔍 What I’m Looking For
+Entry-level roles where I can use:
+- **AWS fundamentals** (Lambda, S3, API Gateway, DynamoDB, EventBridge, SNS, IAM)
+- **CI/CD basics** (GitHub Actions, build → deploy → test patterns)
+- **DevOps mindset** (automation, monitoring, simple infrastructure-as-code)
+- **Support & troubleshooting skills**  
+  (logs, debugging failures, analysing integrations, SQL basics)
 
-Before tech, I worked in production/logistics where I:  
-
-- Used **SAP MM/WM daily** for procurement, inventory, warehouse ops  
-- Partnered with IT during system upgrades & SAP integrations  
-- Built a foundation in **enterprise reliability and process discipline**  
-
-I bring this mindset into cloud — ideal for teams migrating SAP or optimizing backend operations.
-
----
-
-## 🚧 Current Focus
-
-- 📚 Preparing for **Terraform Associate Certification**  
-- 🔐 Expanding **AWS Security Alerting Pipeline** (GuardDuty + Config + Lambda)  
-- 📊 Building **CloudWatch Dashboards** & experimenting with observability stacks
+I target roles such as:  
+**Cloud Support | Application Support | Junior DevOps | Junior SRE | Technical Support Engineer**
 
 ---
 
-## 📜 Certifications
+## 🚀 Projects that represent my real skills
 
-- ✅ AWS Certified Solutions Architect – Associate *(Feb 2025)*  
-- ✅ AWS Certified Cloud Practitioner *(Sep 2024)*  
-- ⏳ HashiCorp Terraform Associate – *in progress*  
+### **1. AWS Security Alerting Pipeline**  
+🔗 Repo: https://github.com/cloudcr0w/security-alerting  
 
----
-
-## 💼 Featured Projects
-
-### 🚧 New project: Invo-Wise (EN)
-
-
-**Invo-Wise** is a lightweight invoice helper for sole proprietors (freelancers / one-person businesses).  
-Goal: **scan / drop text → get clean totals and monthly insights** without digging through PDFs and spreadsheets.
-
-**What it does now**
-- Parse pasted text (PL invoice draft) into a simple `Invoice` model
-- Store invoices locally and list them in a minimal UI
-- `/analytics` backend endpoint → monthly & YTD totals (net/VAT/gross)
-- `/reports/export` → export JSON/CSV (optional `?month=YYYY-MM`)
-
-**What’s next**
-- Frontend dashboard cards (income/expense/VAT)
-- Month selector and a small trend chart
-- Real OCR + better parsing
-
-**Tech**
-- **FastAPI** (backend), **vanilla HTML/JS** (landing), **Pydantic** models
-- Simple storage (dev) + CSV/JSON export
-- Dockerless local dev, ready for containerization later
-
-This project is all about learning and practice — a bit of code, a bit of DevOps, some automation, and plenty of cloud fun along the way.
-Codename: Invo-Wise 🚀
-🔗 [Repo](https://github.com/cloudcr0w/invo-wise) • 🌐 [Live](https://invo-wise.vercel.app/)
+Automated pipeline detecting and forwarding cloud security events.  
+- EventBridge → Lambda → SNS → Slack  
+- Custom Lambda forwarder for alert routing  
+- Debugged real event payloads to improve reliability  
+- Reinforced understanding of IAM, integrations and incident flows  
 
 ---
 
-### 🧱 Multi-Tier Web App  
-Full-stack AWS app with EC2 backend, RDS DB, and S3+CloudFront frontend.  
-Provisioned via CloudFormation, monitored with CloudWatch dashboards.  
-🔗 [Repo](https://github.com/cloudcr0w/multi-tier-web-app) • 🌐 [Live](https://crow-project.click)
+### **2. Serverless Task Manager (Full App)**  
+🔗 Repo: https://github.com/cloudcr0w/serverless-project  
+
+A complete, production-like serverless application:  
+- AWS: Lambda, API Gateway, DynamoDB, S3  
+- Full CI/CD pipeline in GitHub Actions  
+- Frontend with dark mode and animations  
+- Monitoring, structured logging, error handling  
 
 ---
 
-### ☁️ Serverless Task Manager  
-Production-ready serverless CRUD app – AWS Lambda, API Gateway, DynamoDB.  
-Deployed via **Terraform + GitHub Actions** (full CI/CD pipeline).  
-🔗 [Repo](https://github.com/cloudcr0w/serverless-project) • 🌐 [Live](https://d22fapw93bv9rh.cloudfront.net)
+### **3. Multi-Tier Web Application (In Progress)**  
+🔗 Repo: https://github.com/cloudcr0w/multi-tier-web-app  
+
+Multi-layer cloud-native application for learning reliability and architecture:  
+- Backend + frontend + database + monitoring  
+- Integrated chatbot using **AWS Bedrock**  
+- Focused on logs, debugging and clean API flows  
 
 ---
 
-### 🔍 Sentiment Analyzer API  
-Text sentiment microservice using FastAPI + Naive Bayes.  
-**Secured, containerized, and deployable** via Terraform & Kubernetes.  
-🔗 [Repo](https://github.com/cloudcr0w/sentiment-analyzer-devops)
+### **4. InvoWise – Invoice Parser**  
+🔗 Repo: https://github.com/cloudcr0w/invo-wise  
+
+Python + FastAPI tool for automated invoice parsing:  
+- Error handling & debugging document payloads  
+- Clean API contracts  
+- Terraform structure for IaC fundamentals  
 
 ---
 
-### 🛡️ AWS Security Alerting Pipeline *(DevSecOps)*  
-Event-driven incident detection: GuardDuty, AWS Config, CloudTrail + Lambda.  
-Realistic, Terraform-managed security automation.  
-🔗 [Repo](https://github.com/cloudcr0w/security-alerting-pipeline)
+## 🧰 Technologies I Work With
+
+### **Cloud & DevOps**
+- AWS (Lambda, API Gateway, S3, DynamoDB, EventBridge, IAM, SNS, CloudTrail)
+- GitHub Actions (CI/CD workflows)
+- Terraform (modules, IaC basics)
+- Docker (containers, debugging builds)
+- Kubernetes basics (Minikube, YAML)
+
+### **Support & Troubleshooting**
+- Log analysis & stack traces  
+- Reproducing issues, isolating failures  
+- Debugging integrations & API behaviour  
+- SQL basics (SELECT, JOIN, UPDATE)
+
+### **Other**
+- Python scripting  
+- Experience from industry: coordination, problem‑solving, working under pressure  
 
 ---
 
-### 🌐 Weather Data Pipeline  
-Daily weather ingestion via Lambda + EventBridge to DynamoDB/S3.  
-Frontend hosted on AWS Amplify, CI/CD enabled.  
-🔗 [Repo](https://github.com/cloudcr0w/weather-project) • 🌐 [Live](https://main.d24ky3ld7v2sml.amplifyapp.com)
+## 📈 Why I’m a good fit for junior roles
+- Delivered several **real, non-tutorial projects**  
+- Think and work like support: logs → payloads → root cause  
+- Strong “production pressure” background after 17 years in operations  
+- Fast learner, problem solver, always documenting and improving  
 
 ---
 
-### 🏭 SAP eWM Concept Project  
-Conceptual simulation of **Extended Warehouse Management (eWM)** processes — inbound, outbound, and internal stock movements.  
-Showcases **real SAP MM/WM logistics logic** modeled with eWM terminology and visual diagrams.  
-Bridges **warehouse operations** with **modern IT/DevOps** skills for SAP consulting roles.  
-🔗 [Repo](https://github.com/cloudcr0w/sap-ewm-concept)
+## 📫 Contact
+- **Email:** adamwronowy@gmail.com  
+- **GitHub:** https://github.com/cloudcr0w  
+- **LinkedIn:** https://linkedin.com/in/adam-wrona  
 
-## 🤝 Let’s Connect
+---
 
-I’m ready to bring cloud skills, SAP roots, and automation drive to your team.  
-If you’re looking for someone with:  
-
-- ✅ Working AWS IaC & DevOps projects  
-- ✅ Strong enterprise background (SAP/logistics)  
-- ✅ Curiosity, consistency, and fast learning  
-
-📌 [LinkedIn](https://linkedin.com/in/adam-wrona-111ba728b/)  
-📌 [GitHub](https://github.com/cloudcr0w)
-
-> *"Some people wait for perfect conditions.  
-> Others run the script and fix what's broken."*  
-> – unknown legend 😄
+*“Still learning, always shipping - ready for the first real challenge in IT.”*

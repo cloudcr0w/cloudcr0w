@@ -1,166 +1,115 @@
-# 👋 Cześć, jestem Adam Wrona – przyszły Cloud & DevOps Engineer (AWS, SRE basics) ☁️🐳🔧
+<p align="right">
+  <b>🇬🇧 English</b> |
+  <a href="./README_PL.md">🇵🇱 Polski</a>
+</p>
+
+# 👋 Cześć, jestem Adam Wrona
+
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=cloudcr0w.cloudcr0w)
-![AWS SAA](https://img.shields.io/badge/AWS--SAA-Luty2025-yellow?logo=amazonaws)
-![AWS CCP](https://img.shields.io/badge/Cloud%20Practitioner-Wrz2024-blue?logo=amazonaws)
-![Terraform](https://img.shields.io/badge/Terraform-W%20trakcie-purple?logo=terraform)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Podstawy-blue?logo=kubernetes)
-![Docker](https://img.shields.io/badge/Docker-Kontenery-blue?logo=docker)
-![GitHub Actions](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-lightgrey?logo=githubactions)
-![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws)
+![AWS SAA](https://img.shields.io/badge/SAA-2025-yellow?logo=amazonaws)
+![Python](https://img.shields.io/badge/Python-Scripting-blue?logo=python)
+![SQL](https://img.shields.io/badge/SQL-Databases-lightgrey?logo=sqlite)
+![GitHub Actions](https://img.shields.io/badge/CI/CD-GitHub_Actions-blue?logo=githubactions)
+![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?logo=docker)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-purple?logo=terraform)
 
-🇬🇧 [See English version](./README.md)
-
----
-
-Zmieniłem branżę po 17 latach w logistyce i optymalizacji procesów – w tym 8+ lat intensywnej pracy z **SAP MM/WM** w przemyśle ciężkim.  
-Dziś tworzę **bezpieczną, zautomatyzowaną i obserwowalną infrastrukturę chmurową** ☁️🚀
-
-🎯 Szukam swojej **pierwszej pracy jako DevOps / SRE / Cloud Engineer**.  
-💡 Mam praktyczne projekty w AWS, doświadczenie z IaC i silną motywację do rozwoju.
+**Junior Cloud / DevOps / Application Support Engineer**  
+Skupiam się na AWS, troubleshootingu, analizie błędów i budowaniu stabilnych środowisk zbliżonych do produkcyjnych.
 
 ---
 
-## ⚙️ Umiejętności w skrócie
+## 🔍 Czego szukam
+Ról entry‑level, w których mogę wykorzystać:
+- **Podstawy AWS** (Lambda, S3, API Gateway, DynamoDB, EventBridge, SNS, IAM)
+- **Podstawy CI/CD** (GitHub Actions – build → deploy → test)
+- **Myślenie DevOpsowe** (automatyzacja, monitoring, IaC)
+- **Wsparcie aplikacji i troubleshooting**  
+  (logi, analiza błędów, integracje, SQL)
 
-- ☁️ **Chmura**: AWS (Lambda, S3, EC2, RDS, Route 53, CloudWatch, IAM, Config, GuardDuty, EventBridge)  
-- 📦 **IaC**: Terraform (w trakcie nauki), CloudFormation  
-- 🔁 **CI/CD**: GitHub Actions  
-- 🐳 **Konteneryzacja**: Docker, Kubernetes (podstawy)  
-- 🔐 **Bezpieczeństwo**: IAM, WAF, SSL, least privilege, audyt logów  
-- 📊 **Monitoring i Observability**: CloudWatch, dashboardy, alerty (Grafana/Prometheus podstawy)  
-- 🧠 **Kod**: Python (REST API), Bash, Node.js (Express)
-
----
-
-## 🧭 Doświadczenie z SAP i logistyką
-
-Zanim wszedłem do IT:  
-
-- Na co dzień korzystałem z **SAP MM/WM** (zakupy, zapasy, magazyn)  
-- Współpracowałem z IT przy wdrożeniach i integracjach systemów  
-- Budowałem solidne podstawy w **procesach krytycznych dla biznesu**  
-
-Dziś tę dyscyplinę i procesowe podejście przenoszę do świata chmury i DevOps.
+Interesują mnie stanowiska:  
+**Cloud Support | Application Support | Junior DevOps | Junior SRE | Technical Support Engineer**
 
 ---
 
-## 🚧 Na czym teraz się skupiam
+## 🚀 Moje projekty – realne umiejętności
 
-- 📚 Przygotowuję się do certyfikatu **Terraform Associate**  
-- 🔐 Rozwijam projekt **AWS Security Alerting Pipeline** (GuardDuty + Config + Lambda)  
-- 📊 Buduję własne **CloudWatch Dashboards** i eksperymentuję z Prometheusem/Grafaną  
+### **1. AWS Security Alerting Pipeline**  
+🔗 Repo: https://github.com/cloudcr0w/security-alerting  
 
----
-
-## 📜 Certyfikaty
-
-- ✅ AWS Certified Solutions Architect – Associate *(luty 2025)*  
-- ✅ AWS Certified Cloud Practitioner *(wrzesień 2024)*  
-- ⏳ Terraform Associate – *w trakcie nauki*  
+Automatyczny pipeline wykrywający i przekazujący alerty bezpieczeństwa w AWS.  
+- EventBridge → Lambda → SNS → Slack  
+- Własna funkcja do forwardowania alertów  
+- Analiza realnych payloadów i poprawa niezawodności  
+- Głębsze zrozumienie IAM, integracji i przepływu incydentów  
 
 ---
 
-## 💼 Wybrane projekty
+### **2. Serverless Task Manager (pełna aplikacja)**  
+🔗 Repo: https://github.com/cloudcr0w/serverless-project  
 
-### 🚧 Nowy projekt: Invo-Wise (PL)
-Rozpocząłem pracę nad nową aplikacją Invo-Wise, stworzoną z myślą o jednoosobowych działalnościach (JDG), które chcą mieć prosty i przejrzysty sposób na zarządzanie fakturami.
-Pomysł pojawił się z potrzeby – brakowało mi lekkiego narzędzia, które pozwala szybko ogarnąć faktury bez przekopywania się przez pliki PDF, Excela czy maile.
-
-ChatGPT powiedział:
-
-Invo-Wise to lekka aplikacja do obsługi faktur dla osób prowadzących jednoosobową działalność gospodarczą (freelancerów / samozatrudnionych).
-Cel: wklej lub zeskanuj tekst → otrzymaj czytelne podsumowania i miesięczne statystyki, bez przekopywania się przez PDF-y i arkusze kalkulacyjne.
-
-Co już działa
-
-Parsowanie wklejonego tekstu (projekt faktury w języku polskim) do prostego modelu Invoice
-
-Lokalny zapis faktur i ich lista w minimalistycznym interfejsie
-
-Endpoint backendu /analytics → miesięczne i roczne (YTD) sumy (netto / VAT / brutto)
-
-/reports/export → eksport danych do JSON/CSV (opcjonalnie z parametrem ?month=YYYY-MM)
-
-Co dalej
-
-Karty dashboardu frontendowego (przychody / wydatki / VAT)
-
-Wybór miesiąca i mały wykres trendu
-
-Prawdziwe OCR i lepsze parsowanie
-
-Technologie
-
-FastAPI (backend), czysty HTML/JS (landing), modele Pydantic
-
-Prosty lokalny zapis danych (w fazie deweloperskiej) + eksport do CSV/JSON
-
-Brak Dockera w dev, ale projekt gotowy do konteneryzacji w późniejszym etapie
-
-Projekt rozwijam z myślą o nauce i praktyce — trochę kodu, trochę DevOpsa, trochę eksperymentów z automatyzacją i chmurą.
-Kryptonim projektu: Invo-Wise
-🔗 [Repo](https://github.com/cloudcr0w/invo-wise) • 🌐 [Live](https://invo-wise.vercel.app/)
+Kompletna aplikacja serverless:  
+- AWS: Lambda, API Gateway, DynamoDB, S3  
+- Pełny CI/CD w GitHub Actions  
+- Frontend z dark mode i animacjami  
+- Monitoring, logowanie, obsługa błędów  
 
 ---
 
-### 🧱 Multi-Tier Web App  
-Aplikacja full-stack: backend na EC2, RDS jako baza danych, frontend w S3 + CloudFront.  
-Zarządzana przez CloudFormation, monitorowana przez CloudWatch.  
-🔗 [Repo](https://github.com/cloudcr0w/multi-tier-web-app) • 🌐 [Live](https://crow-project.click)
+### **3. Multi-Tier Web Application (w trakcie)**  
+🔗 Repo: https://github.com/cloudcr0w/multi-tier-web-app  
+
+Wielowarstwowa aplikacja chmurowa do nauki architektury i niezawodności:  
+- Backend + frontend + baza + monitoring  
+- Chatbot oparty o **AWS Bedrock**  
+- Skupienie na logach, debugowaniu i czystych API  
 
 ---
 
-### ☁️ Serverless Task Manager  
-Nowoczesny task manager w 100% serverless – Lambda, API Gateway, DynamoDB.  
-Wdrożony z użyciem **Terraform + GitHub Actions** (pełne CI/CD).  
-🔗 [Repo](https://github.com/cloudcr0w/serverless-project) • 🌐 [Live](https://d22fapw93bv9rh.cloudfront.net)
+### **4. InvoWise – parser faktur**  
+🔗 Repo: https://github.com/cloudcr0w/invo-wise  
+
+Projekt Python + FastAPI do przetwarzania faktur:  
+- Obsługa błędów i analiza payloadów  
+- Czyste API  
+- Struktura Terraform pod IaC  
 
 ---
 
-### 🔍 Sentiment Analyzer API  
-Mikrousługa FastAPI + klasyfikator Bayesa.  
-**Zabezpieczona, konteneryzowana i gotowa do wdrożenia** przez Terraform i Kubernetes.  
-🔗 [Repo](https://github.com/cloudcr0w/sentiment-analyzer-devops)
+## 🧰 Technologie, których używam
+
+### **Cloud & DevOps**
+- AWS (Lambda, API Gateway, S3, DynamoDB, EventBridge, IAM, SNS, CloudTrail)
+- GitHub Actions (workflow CI/CD)
+- Terraform (moduły, podstawy IaC)
+- Docker (budowanie i debugowanie kontenerów)
+- Kubernetes (Minikube, YAML – poziom podstawowy)
+
+### **Support & Troubleshooting**
+- Analiza logów i stack trace  
+- Odtwarzanie błędów  
+- Debugowanie integracji i API  
+- SQL podstawowy (SELECT, JOIN, UPDATE)
+
+### **Inne**
+- Skrypty Python  
+- Doświadczenie z produkcji - praca pod presją, rozwiązywanie problemów, koordynacja
 
 ---
 
-### 🛡️ AWS Security Alerting Pipeline *(DevSecOps)*  
-Event-driven wykrywanie incydentów: GuardDuty, AWS Config, CloudTrail + Lambda.  
-Automatyzacja w pełni zarządzana przez Terraform.  
-🔗 [Repo](https://github.com/cloudcr0w/security-alerting-pipeline)
+## 📈 Dlaczego sprawdzę się na roli juniora
+- Zrobiłem kilka **realnych, nietutorialowych projektów**  
+- Myślę jak support: logi → payloady → root cause  
+- 17 lat doświadczenia w operacjach - presja, odpowiedzialność, stabilność  
+- Uczę się szybko, dokumentuję, poprawiam procesy  
 
 ---
 
-### 🌐 Weather Data Pipeline  
-Codzienny pipeline pobierania danych pogodowych (Lambda + EventBridge → DynamoDB/S3).  
-Frontend w AWS Amplify, CI/CD aktywne.  
-🔗 [Repo](https://github.com/cloudcr0w/weather-project) • 🌐 [Live](https://main.d24ky3ld7v2sml.amplifyapp.com)
+## 📫 Kontakt
+- **Email:** adamwronowy@gmail.com  
+- **GitHub:** https://github.com/cloudcr0w  
+- **LinkedIn:** https://linkedin.com/in/adam-wrona  
 
 ---
 
-### 🏭 SAP eWM Concept Project  
-Symulacja procesów magazynowych **SAP Extended Warehouse Management (eWM)** – przyjęcia, wydania i przesunięcia wewnętrzne.  
-Prezentuje realistyczną logikę **SAP MM/WM** oraz terminologię eWM z wykorzystaniem diagramów procesów.  
-Łączy doświadczenie logistyczne z nowoczesnym podejściem IT/DevOps w kontekście konsultingu SAP.  
-🔗 [Repozytorium](https://github.com/cloudcr0w/sap-ewm-concept)
-
----
-
-## 📈 Statystyki GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cloudcr0w&show_icons=true&theme=github_dark&hide_rank=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloudcr0w&layout=compact&theme=github_dark)
-
----
-
-## 🤝 Skontaktujmy się
-
-Szukam pierwszej pracy jako **DevOps / SRE / Cloud Engineer** – najlepiej zdalnej lub hybrydowej.  
-Jeśli szukasz kogoś, kto zna chmurę, SAP-a i dowozi projekty – odezwij się!  
-
-- 📌 [LinkedIn](https://linkedin.com/in/adam-wrona-111ba728b/)  
-- 📌 [GitHub](https://github.com/cloudcr0w)
-
-> *„Niektórzy czekają na idealne warunki.  
-> Inni puszczają skrypt i naprawiają błędy po drodze.”*  
-> – legenda DevOps 😄
+*„Ciągle się uczę, ciągle dostarczam - gotowy na pierwsze realne wyzwanie w IT.”*
