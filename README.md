@@ -1,6 +1,6 @@
 <p align="right">
-  <b>🇬🇧 English</b> |
-  <a href="./README_PL.md">🇵🇱 Polski</a>
+  <b>🇵🇱 Polski</b> |
+  <a href="./README.pl.md">🇵🇱 Polski</a>
 </p>
 
 # 👋 Hi, I'm Adam Wrona
@@ -20,7 +20,9 @@ Focused on AWS, troubleshooting, incident resolution and building stable, produc
 ---
 
 ## 🔍 What I’m Looking For
+
 Entry-level roles where I can use:
+
 - **AWS fundamentals** (Lambda, S3, API Gateway, DynamoDB, EventBridge, SNS, IAM)
 - **CI/CD basics** (GitHub Actions, build → deploy → test patterns)
 - **DevOps mindset** (automation, monitoring, simple infrastructure-as-code)
@@ -34,51 +36,60 @@ I target roles such as:
 
 ## 🚀 Projects that represent my real skills
 
-### **1. AWS Security Alerting Pipeline**  
-🔗 Repo: https://github.com/cloudcr0w/security-alerting  
+### **1. AWS Security Alerting Pipeline**
 
-Automated pipeline detecting and forwarding cloud security events.  
-- EventBridge → Lambda → SNS → Slack  
-- Custom Lambda forwarder for alert routing  
-- Debugged real event payloads to improve reliability  
-- Reinforced understanding of IAM, integrations and incident flows  
+🔗 Repo: https://github.com/cloudcr0w/security-alerting
 
----
+Automated pipeline detecting and forwarding cloud security events.
 
-### **2. Serverless Task Manager (Full App)**  
-🔗 Repo: https://github.com/cloudcr0w/serverless-project  
-
-A complete, production-like serverless application:  
-- AWS: Lambda, API Gateway, DynamoDB, S3  
-- Full CI/CD pipeline in GitHub Actions  
-- Frontend with dark mode and animations  
-- Monitoring, structured logging, error handling  
+- EventBridge → Lambda → SNS → Slack
+- Custom Lambda forwarder for alert routing
+- Debugged real event payloads to improve reliability
+- Reinforced understanding of IAM, integrations and incident flows
 
 ---
 
-### **3. Multi-Tier Web Application (In Progress)**  
-🔗 Repo: https://github.com/cloudcr0w/multi-tier-web-app  
+### **2. Serverless Task Manager (Full App)**
 
-Multi-layer cloud-native application for learning reliability and architecture:  
-- Backend + frontend + database + monitoring  
-- Integrated chatbot using **AWS Bedrock**  
-- Focused on logs, debugging and clean API flows  
+🔗 Repo: https://github.com/cloudcr0w/serverless-project
+
+A complete, production-like serverless application:
+
+- AWS: Lambda, API Gateway, DynamoDB, S3
+- Full CI/CD pipeline in GitHub Actions
+- Frontend with dark mode and animations
+- Monitoring, structured logging, error handling
 
 ---
 
-### **4. InvoWise – Invoice Parser**  
-🔗 Repo: https://github.com/cloudcr0w/invo-wise  
+### **3. Multi-Tier Web Application (In Progress)**
 
-Python + FastAPI tool for automated invoice parsing:  
-- Error handling & debugging document payloads  
-- Clean API contracts  
-- Terraform structure for IaC fundamentals  
+🔗 Repo: https://github.com/cloudcr0w/multi-tier-web-app
+
+Multi-layer cloud-native application for learning reliability and architecture:
+
+- Backend + frontend + database + monitoring
+- Integrated chatbot using **AWS Bedrock**
+- Focused on logs, debugging and clean API flows
+
+---
+
+### **4. InvoWise – Invoice Parser**
+
+🔗 Repo: https://github.com/cloudcr0w/invo-wise
+
+Python + FastAPI tool for automated invoice parsing:
+
+- Error handling & debugging document payloads
+- Clean API contracts
+- Terraform structure for IaC fundamentals
 
 ---
 
 ## 🧰 Technologies I Work With
 
 ### **Cloud & DevOps**
+
 - AWS (Lambda, API Gateway, S3, DynamoDB, EventBridge, IAM, SNS, CloudTrail)
 - GitHub Actions (CI/CD workflows)
 - Terraform (modules, IaC basics)
@@ -86,30 +97,34 @@ Python + FastAPI tool for automated invoice parsing:
 - Kubernetes basics (Minikube, YAML)
 
 ### **Support & Troubleshooting**
-- Log analysis & stack traces  
-- Reproducing issues, isolating failures  
-- Debugging integrations & API behaviour  
+
+- Log analysis & stack traces
+- Reproducing issues, isolating failures
+- Debugging integrations & API behaviour
 - SQL basics (SELECT, JOIN, UPDATE)
 
 ### **Other**
-- Python scripting  
-- Experience from industry: coordination, problem‑solving, working under pressure  
+
+- Python scripting
+- Experience from industry: coordination, problem‑solving, working under pressure
 
 ---
 
 ## 📈 Why I’m a good fit for junior roles
-- Delivered several **real, non-tutorial projects**  
-- Think and work like support: logs → payloads → root cause  
-- Strong “production pressure” background after 17 years in operations  
-- Fast learner, problem solver, always documenting and improving  
+
+- Delivered several **real, non-tutorial projects**
+- Think and work like support: logs → payloads → root cause
+- Strong “production pressure” background after 17 years in operations
+- Fast learner, problem solver, always documenting and improving
 
 ---
 
 ## 📫 Contact
-- **Email:** adamwronowy@gmail.com  
-- **GitHub:** https://github.com/cloudcr0w  
-- **LinkedIn:** https://linkedin.com/in/adam-wrona  
+
+- **Email:** adamwronowy@gmail.com
+- **GitHub:** https://github.com/cloudcr0w
+- **LinkedIn:** https://linkedin.com/in/adam-wrona
 
 ---
 
-*“Still learning, always shipping - ready for the first real challenge in IT.”*
+_“Still learning, always shipping - ready for the first real challenge in IT.”_

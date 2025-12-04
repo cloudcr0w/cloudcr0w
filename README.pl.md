@@ -1,6 +1,6 @@
 <p align="right">
   <b>🇬🇧 English</b> |
-  <a href="./README_PL.md">🇵🇱 Polski</a>
+  <a href="./README.md">🇬🇧 English</a>
 </p>
 
 # 👋 Cześć, jestem Adam Wrona
@@ -20,7 +20,9 @@ Skupiam się na AWS, troubleshootingu, analizie błędów i budowaniu stabilnych
 ---
 
 ## 🔍 Czego szukam
+
 Ról entry‑level, w których mogę wykorzystać:
+
 - **Podstawy AWS** (Lambda, S3, API Gateway, DynamoDB, EventBridge, SNS, IAM)
 - **Podstawy CI/CD** (GitHub Actions – build → deploy → test)
 - **Myślenie DevOpsowe** (automatyzacja, monitoring, IaC)
@@ -34,51 +36,60 @@ Interesują mnie stanowiska:
 
 ## 🚀 Moje projekty – realne umiejętności
 
-### **1. AWS Security Alerting Pipeline**  
-🔗 Repo: https://github.com/cloudcr0w/security-alerting  
+### **1. AWS Security Alerting Pipeline**
 
-Automatyczny pipeline wykrywający i przekazujący alerty bezpieczeństwa w AWS.  
-- EventBridge → Lambda → SNS → Slack  
-- Własna funkcja do forwardowania alertów  
-- Analiza realnych payloadów i poprawa niezawodności  
-- Głębsze zrozumienie IAM, integracji i przepływu incydentów  
+🔗 Repo: https://github.com/cloudcr0w/security-alerting
 
----
+Automatyczny pipeline wykrywający i przekazujący alerty bezpieczeństwa w AWS.
 
-### **2. Serverless Task Manager (pełna aplikacja)**  
-🔗 Repo: https://github.com/cloudcr0w/serverless-project  
-
-Kompletna aplikacja serverless:  
-- AWS: Lambda, API Gateway, DynamoDB, S3  
-- Pełny CI/CD w GitHub Actions  
-- Frontend z dark mode i animacjami  
-- Monitoring, logowanie, obsługa błędów  
+- EventBridge → Lambda → SNS → Slack
+- Własna funkcja do forwardowania alertów
+- Analiza realnych payloadów i poprawa niezawodności
+- Głębsze zrozumienie IAM, integracji i przepływu incydentów
 
 ---
 
-### **3. Multi-Tier Web Application (w trakcie)**  
-🔗 Repo: https://github.com/cloudcr0w/multi-tier-web-app  
+### **2. Serverless Task Manager (pełna aplikacja)**
 
-Wielowarstwowa aplikacja chmurowa do nauki architektury i niezawodności:  
-- Backend + frontend + baza + monitoring  
-- Chatbot oparty o **AWS Bedrock**  
-- Skupienie na logach, debugowaniu i czystych API  
+🔗 Repo: https://github.com/cloudcr0w/serverless-project
+
+Kompletna aplikacja serverless:
+
+- AWS: Lambda, API Gateway, DynamoDB, S3
+- Pełny CI/CD w GitHub Actions
+- Frontend z dark mode i animacjami
+- Monitoring, logowanie, obsługa błędów
 
 ---
 
-### **4. InvoWise – parser faktur**  
-🔗 Repo: https://github.com/cloudcr0w/invo-wise  
+### **3. Multi-Tier Web Application (w trakcie)**
 
-Projekt Python + FastAPI do przetwarzania faktur:  
-- Obsługa błędów i analiza payloadów  
-- Czyste API  
-- Struktura Terraform pod IaC  
+🔗 Repo: https://github.com/cloudcr0w/multi-tier-web-app
+
+Wielowarstwowa aplikacja chmurowa do nauki architektury i niezawodności:
+
+- Backend + frontend + baza + monitoring
+- Chatbot oparty o **AWS Bedrock**
+- Skupienie na logach, debugowaniu i czystych API
+
+---
+
+### **4. InvoWise – parser faktur**
+
+🔗 Repo: https://github.com/cloudcr0w/invo-wise
+
+Projekt Python + FastAPI do przetwarzania faktur:
+
+- Obsługa błędów i analiza payloadów
+- Czyste API
+- Struktura Terraform pod IaC
 
 ---
 
 ## 🧰 Technologie, których używam
 
 ### **Cloud & DevOps**
+
 - AWS (Lambda, API Gateway, S3, DynamoDB, EventBridge, IAM, SNS, CloudTrail)
 - GitHub Actions (workflow CI/CD)
 - Terraform (moduły, podstawy IaC)
@@ -86,30 +97,34 @@ Projekt Python + FastAPI do przetwarzania faktur:
 - Kubernetes (Minikube, YAML – poziom podstawowy)
 
 ### **Support & Troubleshooting**
-- Analiza logów i stack trace  
-- Odtwarzanie błędów  
-- Debugowanie integracji i API  
+
+- Analiza logów i stack trace
+- Odtwarzanie błędów
+- Debugowanie integracji i API
 - SQL podstawowy (SELECT, JOIN, UPDATE)
 
 ### **Inne**
-- Skrypty Python  
+
+- Skrypty Python
 - Doświadczenie z produkcji - praca pod presją, rozwiązywanie problemów, koordynacja
 
 ---
 
 ## 📈 Dlaczego sprawdzę się na roli juniora
-- Zrobiłem kilka **realnych, nietutorialowych projektów**  
-- Myślę jak support: logi → payloady → root cause  
-- 17 lat doświadczenia w operacjach - presja, odpowiedzialność, stabilność  
-- Uczę się szybko, dokumentuję, poprawiam procesy  
+
+- Zrobiłem kilka **realnych, nietutorialowych projektów**
+- Myślę jak support: logi → payloady → root cause
+- 17 lat doświadczenia w operacjach - presja, odpowiedzialność, stabilność
+- Uczę się szybko, dokumentuję, poprawiam procesy
 
 ---
 
 ## 📫 Kontakt
-- **Email:** adamwronowy@gmail.com  
-- **GitHub:** https://github.com/cloudcr0w  
-- **LinkedIn:** https://linkedin.com/in/adam-wrona  
+
+- **Email:** adamwronowy@gmail.com
+- **GitHub:** https://github.com/cloudcr0w
+- **LinkedIn:** https://linkedin.com/in/adam-wrona
 
 ---
 
-*„Ciągle się uczę, ciągle dostarczam - gotowy na pierwsze realne wyzwanie w IT.”*
+_„Ciągle się uczę, ciągle dostarczam - gotowy na pierwsze realne wyzwanie w IT.”_
