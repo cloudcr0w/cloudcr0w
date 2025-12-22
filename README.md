@@ -69,20 +69,25 @@ I treat this background as a solid foundation for **application support, cloud s
 Automated detection and routing of cloud security events  
 EventBridge → Lambda → SNS → Slack  
 Focus on IAM, integrations and incident flows
+https://github.com/cloudcr0w/security-alerting-pipeline
 
 ### **Serverless Task Manager**
 Full serverless application with:
 - AWS (Lambda, API Gateway, DynamoDB, S3)
 - CI/CD with GitHub Actions
 - Monitoring, structured logging and error handling
+https://github.com/cloudcr0w/serverless-project
+
 
 ### **Multi-Tier Web Application (in progress)**
 Cloud-native architecture with backend, frontend, database and monitoring  
 Focus on logs, debugging and clean API design
+https://github.com/cloudcr0w/multi-tier-web-app
 
-### **InvoWise – Invoice Parser**
+### **InvoWise – Invoice Parser (in progress)**
 Python + FastAPI application for document processing  
 Error handling, API design and Terraform-based IaC structure
+https://github.com/cloudcr0w/invo-wise
 
 ---
 

@@ -69,22 +69,25 @@ Traktuję ten background jako solidną bazę do ról **Application Support, Clou
 Automatyczne wykrywanie i przekazywanie alertów bezpieczeństwa  
 EventBridge → Lambda → SNS → Slack  
 IAM, integracje, obsługa incydentów
+https://github.com/cloudcr0w/security-alerting-pipeline
 
 ### **Serverless Task Manager**
 Pełna aplikacja serverless:
 - AWS (Lambda, API Gateway, DynamoDB, S3)
 - CI/CD w GitHub Actions
 - Monitoring, logowanie i obsługa błędów
+https://github.com/cloudcr0w/serverless-project
 
 ### **Multi-Tier Web Application (w trakcie)**
 Aplikacja wielowarstwowa:
 - backend, frontend, baza danych, monitoring
 - nacisk na logi, debugowanie i czyste API
+https://github.com/cloudcr0w/multi-tier-web-app
 
 ### **InvoWise – parser faktur**
 Python + FastAPI  
 Obsługa błędów, projektowanie API, Terraform pod IaC
-
+https://github.com/cloudcr0w/invo-wise
 ---
 
 ## 🧰 Technologie
