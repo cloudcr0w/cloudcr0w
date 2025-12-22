@@ -111,7 +111,7 @@ https://github.com/cloudcr0w/invo-wise
 ## 📫 Contact
 
 - GitHub: https://github.com/cloudcr0w  
-- LinkedIn: https://linkedin.com/in/adam-wrona  
+- LinkedIn: https://www.linkedin.com/in/adam-wrona-111ba728b/
 - Email: adamwronowy@gmail.com  
 
 ---
