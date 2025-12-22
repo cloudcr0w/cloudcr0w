@@ -1,130 +1,114 @@
-<p align="right">
-  <b>🇵🇱 Polski</b> |
-  <a href="./README.pl.md">🇵🇱 Polski</a>
+
+<p align="center"> 
+  <a href="README.pl.md">🇵🇱 Polish</a>
 </p>
 
-# 👋 Hi, I'm Adam Wrona
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-orange?logo=amazonaws" />
+  <img src="https://img.shields.io/badge/Terraform-IaC-7B42BC?logo=terraform" />
+  <img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?logo=githubactions" />
+  <img src="https://img.shields.io/badge/Enterprise%20Systems-SAP%20Experience-0FAAFF?logo=sap" />
+</p>
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=cloudcr0w.cloudcr0w)
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws)
-![AWS SAA](https://img.shields.io/badge/SAA-2025-yellow?logo=amazonaws)
-![Python](https://img.shields.io/badge/Python-Scripting-blue?logo=python)
-![SQL](https://img.shields.io/badge/SQL-Databases-lightgrey?logo=sqlite)
-![GitHub Actions](https://img.shields.io/badge/CI/CD-GitHub_Actions-blue?logo=githubactions)
-![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?logo=docker)
-![Terraform](https://img.shields.io/badge/Terraform-IaC-purple?logo=terraform)
+
+# 👋 Hi, I'm Adam Wrona
 
 **Junior Cloud / DevOps / Application Support Engineer**  
 Focused on AWS, troubleshooting, incident resolution and building stable, production-like environments.
 
----
-
-## 🔍 What I’m Looking For
-
-Entry-level roles where I can use:
-
-- **AWS fundamentals** (Lambda, S3, API Gateway, DynamoDB, EventBridge, SNS, IAM)
-- **CI/CD basics** (GitHub Actions, build → deploy → test patterns)
-- **DevOps mindset** (automation, monitoring, simple infrastructure-as-code)
-- **Support & troubleshooting skills**  
-  (logs, debugging failures, analysing integrations, SQL basics)
-
-I target roles such as:  
-**Cloud Support | Application Support | Junior DevOps | Junior SRE | Technical Support Engineer**
+I combine **hands-on cloud & DevOps projects** with a **strong application support background** gained in enterprise systems used in production environments.
 
 ---
 
-## 🚀 Projects that represent my real skills
+## 🔍 What I’m currently looking for
 
-### **1. AWS Security Alerting Pipeline**
+I’m actively looking for **entry-level / junior roles**, especially:
 
-🔗 Repo: https://github.com/cloudcr0w/security-alerting
+- **Junior DevOps Engineer**
+- **Cloud / Application Support Engineer**
+- **Junior SRE / Platform Support**
+- **SAP Application Support (MM / general support roles)**
 
-Automated pipeline detecting and forwarding cloud security events.
-
-- EventBridge → Lambda → SNS → Slack
-- Custom Lambda forwarder for alert routing
-- Debugged real event payloads to improve reliability
-- Reinforced understanding of IAM, integrations and incident flows
+I’m open to both **cloud-oriented** and **SAP support-oriented** paths, depending on the team and project.
 
 ---
 
-### **2. Serverless Task Manager (Full App)**
+## 🧠 What I bring
 
-🔗 Repo: https://github.com/cloudcr0w/serverless-project
+- ☁️ **Cloud & DevOps fundamentals**  
+  AWS services, CI/CD pipelines, Infrastructure as Code, automation mindset
 
-A complete, production-like serverless application:
+- 🔍 **Application support & troubleshooting**  
+  Log analysis, incident handling, root cause analysis, API & integration debugging
 
-- AWS: Lambda, API Gateway, DynamoDB, S3
-- Full CI/CD pipeline in GitHub Actions
-- Frontend with dark mode and animations
-- Monitoring, structured logging, error handling
+- 📊 **Monitoring & observability**  
+  Dashboards, metrics and alerts using Grafana, Prometheus and CloudWatch
 
----
-
-### **3. Multi-Tier Web Application (In Progress)**
-
-🔗 Repo: https://github.com/cloudcr0w/multi-tier-web-app
-
-Multi-layer cloud-native application for learning reliability and architecture:
-
-- Backend + frontend + database + monitoring
-- Integrated chatbot using **AWS Bedrock**
-- Focused on logs, debugging and clean API flows
+- 🏭 **Enterprise systems background (SAP MM)**  
+  Years of working with SAP as a core production system, supporting business users under real operational pressure
 
 ---
 
-### **4. InvoWise – Invoice Parser**
+## 🏭 SAP background (enterprise systems)
 
-🔗 Repo: https://github.com/cloudcr0w/invo-wise
+Before moving deeper into cloud and DevOps roles, I spent many years working in **production and logistics environments** where **SAP (MM)** was a critical operational system.
 
-Python + FastAPI tool for automated invoice parsing:
+This experience helped me build a strong **application support mindset**:
+- supporting business users under production pressure,
+- analyzing incidents impacting critical processes,
+- understanding how IT systems affect real-world operations,
+- acting as a bridge between technical teams and non-technical users.
 
-- Error handling & debugging document payloads
-- Clean API contracts
-- Terraform structure for IaC fundamentals
+I treat this background as a solid foundation for **application support, cloud support and SAP support roles**.
 
 ---
 
-## 🧰 Technologies I Work With
+## 🚀 Selected projects (real, hands-on)
 
-### **Cloud & DevOps**
+### **AWS Security Alerting Pipeline**
+Automated detection and routing of cloud security events  
+EventBridge → Lambda → SNS → Slack  
+Focus on IAM, integrations and incident flows
 
-- AWS (Lambda, API Gateway, S3, DynamoDB, EventBridge, IAM, SNS, CloudTrail)
-- GitHub Actions (CI/CD workflows)
-- Terraform (modules, IaC basics)
-- Docker (containers, debugging builds)
+### **Serverless Task Manager**
+Full serverless application with:
+- AWS (Lambda, API Gateway, DynamoDB, S3)
+- CI/CD with GitHub Actions
+- Monitoring, structured logging and error handling
+
+### **Multi-Tier Web Application (in progress)**
+Cloud-native architecture with backend, frontend, database and monitoring  
+Focus on logs, debugging and clean API design
+
+### **InvoWise – Invoice Parser**
+Python + FastAPI application for document processing  
+Error handling, API design and Terraform-based IaC structure
+
+---
+
+## 🧰 Tech stack (practical)
+
+**Cloud & DevOps**
+- AWS (Lambda, API Gateway, S3, DynamoDB, EventBridge, IAM, SNS)
+- GitHub Actions (CI/CD)
+- Terraform (IaC fundamentals)
+- Docker
 - Kubernetes basics (Minikube, YAML)
 
-### **Support & Troubleshooting**
-
-- Log analysis & stack traces
-- Reproducing issues, isolating failures
-- Debugging integrations & API behaviour
-- SQL basics (SELECT, JOIN, UPDATE)
-
-### **Other**
-
-- Python scripting
-- Experience from industry: coordination, problem‑solving, working under pressure
-
----
-
-## 📈 Why I’m a good fit for junior roles
-
-- Delivered several **real, non-tutorial projects**
-- Think and work like support: logs → payloads → root cause
-- Strong “production pressure” background after 17 years in operations
-- Fast learner, problem solver, always documenting and improving
+**Monitoring & Support**
+- Grafana, Prometheus, AWS CloudWatch
+- Log analysis, incident handling
+- REST APIs, JSON / XML debugging
+- SQL basics
 
 ---
 
 ## 📫 Contact
 
-- **Email:** adamwronowy@gmail.com
-- **GitHub:** https://github.com/cloudcr0w
-- **LinkedIn:** https://linkedin.com/in/adam-wrona
+- GitHub: https://github.com/cloudcr0w  
+- LinkedIn: https://linkedin.com/in/adam-wrona  
+- Email: adamwronowy@gmail.com  
 
 ---
 
-_“Still learning, always shipping - ready for the first real challenge in IT.”_
+_Still learning, still shipping – ready for the next step in cloud, DevOps or application support._
