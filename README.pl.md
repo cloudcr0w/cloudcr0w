@@ -1,4 +1,3 @@
-
 <p align="center">
   <a href="README.md">🇬🇧 English</a> | 
 </p>
@@ -10,11 +9,10 @@
   <img src="https://img.shields.io/badge/Enterprise%20Systems-SAP%20Experience-0FAAFF?logo=sap" />
 </p>
 
-
 # 👋 Cześć, jestem Adam Wrona
 
 **Junior Cloud / DevOps / Application Support Engineer**  
-Skupiam się na AWS, troubleshootingu, analizie incydentów oraz budowaniu stabilnych środowisk zbliżonych do produkcyjnych.
+Skupiam się na AWS, troubleshootingu, analizie incydentów oraz budowaniu stabilnych środowisk zbliżonych do produkcyjnych; obecnie rozwijam kompetencje w Azure.
 
 Łączę **praktyczne projekty chmurowe i DevOpsowe** z **wieloletnim doświadczeniem we wsparciu aplikacji i systemów klasy enterprise**.
 
@@ -36,7 +34,7 @@ Jestem otwarty zarówno na ścieżkę **cloud / DevOps**, jak i **SAP support**,
 ## 🧠 Co wnoszę
 
 - ☁️ **Podstawy chmury i DevOps**  
-  AWS, CI/CD, Infrastructure as Code, automatyzacja
+  AWS, CI/CD, Infrastructure as Code, automatyzacja, Azure (w trakcie nauki – platforma)
 
 - 🔍 **Wsparcie aplikacji i troubleshooting**  
   Analiza logów, obsługa incydentów, root cause analysis, debugowanie integracji
@@ -68,32 +66,34 @@ Traktuję ten background jako solidną bazę do ról **Application Support, Clou
 ### **AWS Security Alerting Pipeline**
 Automatyczne wykrywanie i przekazywanie alertów bezpieczeństwa  
 EventBridge → Lambda → SNS → Slack  
-IAM, integracje, obsługa incydentów
+IAM, integracje, obsługa incydentów  
 https://github.com/cloudcr0w/security-alerting-pipeline
 
 ### **Serverless Task Manager**
 Pełna aplikacja serverless:
 - AWS (Lambda, API Gateway, DynamoDB, S3)
 - CI/CD w GitHub Actions
-- Monitoring, logowanie i obsługa błędów
+- Monitoring, logowanie i obsługa błędów  
 https://github.com/cloudcr0w/serverless-project
 
 ### **Multi-Tier Web Application (w trakcie)**
 Aplikacja wielowarstwowa:
 - backend, frontend, baza danych, monitoring
-- nacisk na logi, debugowanie i czyste API
+- nacisk na logi, debugowanie i czyste API  
 https://github.com/cloudcr0w/multi-tier-web-app
 
 ### **InvoWise – parser faktur**
 Python + FastAPI  
-Obsługa błędów, projektowanie API, Terraform pod IaC
+Obsługa błędów, projektowanie API, Terraform pod IaC  
 https://github.com/cloudcr0w/invo-wise
+
 ---
 
 ## 🧰 Technologie
 
 **Cloud & DevOps**
 - AWS (Lambda, API Gateway, S3, DynamoDB, EventBridge, IAM, SNS)
+- Azure (podstawy – monitoring, usługi platformowe)
 - GitHub Actions (CI/CD)
 - Terraform (podstawy IaC)
 - Docker
@@ -110,7 +110,7 @@ https://github.com/cloudcr0w/invo-wise
 ## 📫 Kontakt
 
 - GitHub: https://github.com/cloudcr0w  
-- LinkedIn: https://www.linkedin.com/in/adam-wrona-111ba728b/
+- LinkedIn: https://www.linkedin.com/in/adam-wrona-111ba728b/  
 - Email: adamwronowy@gmail.com  
 
 ---
