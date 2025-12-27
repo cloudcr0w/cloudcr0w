@@ -1,4 +1,3 @@
-
 <p align="center"> 
   <a href="README.pl.md">🇵🇱 Polish</a>
 </p>
@@ -10,11 +9,10 @@
   <img src="https://img.shields.io/badge/Enterprise%20Systems-SAP%20Experience-0FAAFF?logo=sap" />
 </p>
 
-
 # 👋 Hi, I'm Adam Wrona
 
 **Junior Cloud / DevOps / Application Support Engineer**  
-Focused on AWS, troubleshooting, incident resolution and building stable, production-like environments.
+Focused on AWS, troubleshooting, incident resolution and building stable, production-like environments; currently expanding skills in Microsoft Azure.
 
 I combine **hands-on cloud & DevOps projects** with a **strong application support background** gained in enterprise systems used in production environments.
 
@@ -36,7 +34,7 @@ I’m open to both **cloud-oriented** and **SAP support-oriented** paths, depend
 ## 🧠 What I bring
 
 - ☁️ **Cloud & DevOps fundamentals**  
-  AWS services, CI/CD pipelines, Infrastructure as Code, automation mindset
+  AWS services, CI/CD pipelines, Infrastructure as Code, automation mindset; **Azure platform – learning in progress**
 
 - 🔍 **Application support & troubleshooting**  
   Log analysis, incident handling, root cause analysis, API & integration debugging
@@ -68,25 +66,24 @@ I treat this background as a solid foundation for **application support, cloud s
 ### **AWS Security Alerting Pipeline**
 Automated detection and routing of cloud security events  
 EventBridge → Lambda → SNS → Slack  
-Focus on IAM, integrations and incident flows
+Focus on IAM, integrations and incident flows  
 https://github.com/cloudcr0w/security-alerting-pipeline
 
 ### **Serverless Task Manager**
 Full serverless application with:
 - AWS (Lambda, API Gateway, DynamoDB, S3)
 - CI/CD with GitHub Actions
-- Monitoring, structured logging and error handling
+- Monitoring, structured logging and error handling  
 https://github.com/cloudcr0w/serverless-project
-
 
 ### **Multi-Tier Web Application (in progress)**
 Cloud-native architecture with backend, frontend, database and monitoring  
-Focus on logs, debugging and clean API design
+Focus on logs, debugging and clean API design  
 https://github.com/cloudcr0w/multi-tier-web-app
 
 ### **InvoWise – Invoice Parser (in progress)**
 Python + FastAPI application for document processing  
-Error handling, API design and Terraform-based IaC structure
+Error handling, API design and Terraform-based IaC structure  
 https://github.com/cloudcr0w/invo-wise
 
 ---
@@ -95,6 +92,7 @@ https://github.com/cloudcr0w/invo-wise
 
 **Cloud & DevOps**
 - AWS (Lambda, API Gateway, S3, DynamoDB, EventBridge, IAM, SNS)
+- Azure (basics – monitoring, platform services)
 - GitHub Actions (CI/CD)
 - Terraform (IaC fundamentals)
 - Docker
@@ -111,7 +109,7 @@ https://github.com/cloudcr0w/invo-wise
 ## 📫 Contact
 
 - GitHub: https://github.com/cloudcr0w  
-- LinkedIn: https://www.linkedin.com/in/adam-wrona-111ba728b/
+- LinkedIn: https://www.linkedin.com/in/adam-wrona-111ba728b/  
 - Email: adamwronowy@gmail.com  
 
 ---
